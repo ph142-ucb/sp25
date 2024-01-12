@@ -1,2 +1,2 @@
-# fa23
-This is the course website for PH 142 Fall 2023.
+# sp24
+This is the course website for PH 142 Spring 2024.
