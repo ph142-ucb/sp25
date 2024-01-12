@@ -17,3 +17,4 @@ days:
       "**Quiz 1**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Jan 20th)":
       
 ---
+
