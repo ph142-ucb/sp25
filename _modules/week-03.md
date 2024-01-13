@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 7**{: .label .label-lec} Two-way Tables ":
         "Ch. 5 & 6"
-      "**Lab 3**{: .label .label-lab} Relationship Between Global Cesarean Delivery Rates and GDP ":
+      "**Lab 3**{: .label .label-lab} Relationship Between Global Cesarean Delivery Rates and GDP (Due Feb 7th)":
       "**Homework 3**{: .label .label-hw} ":
   - date: 2023-02-02
     events:
