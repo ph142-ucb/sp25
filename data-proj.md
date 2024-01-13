@@ -14,6 +14,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 - Note: Make sure to check in with your assigned GSI before the due date!
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1rV8MwHR8yLP1fM780hXVD1VS80QKJlBswcKhhmUh6SE/edit?usp=sharing) to ensure you are using a valid dataset!
+<!--
 - You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/1_9VLmLDYjhxRNm4tJaLvnecZ61H8Am9U5TVKglhvdAs/edit).
 
 
@@ -25,15 +26,15 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa23/src/dp/part3-instructions.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/1bbfUH-jNchqAgElcLBRzL5lMizuU0RZPJfP4yUQbhXY/edit?usp=sharing).
-
+-->
 
 <hr>
 
 **Due dates:** 
 
-- **Part I is due on October 6th at 5pm PST**
-- **Part II is due on November 6th at 11:59pm PST**
-- **Part III is due on December 1st at 11:59pm PST**
+- **Part I is due on February 27th at 10:00 pm PST**
+- **Part II is due on March 22nd at 10:00 pm PST**
+- **Part III is due on May 6th at 12:00 pm PST (noon)**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
