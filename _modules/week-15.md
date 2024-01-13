@@ -3,7 +3,7 @@ title: Week 15
 days:
   - date: 2024-04-22
     events:
-      "**Lecture 36**{: .label .label-lec} wrapping up part III":
+      "**Lecture 36**{: .label .label-lec} Wrapping up part III":
   - date: 2023-04-24
     events:
       "**Lecture 37**{: .label .label-lec} Structured Review ":
