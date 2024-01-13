@@ -4,6 +4,7 @@ days:
   - date: 2024-04-29
     events:
       "**No Lecture**{: .label .label-lec}":
+      "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part III ":
   - date: 2024-05-01
     events:
       "**No Lecture**{: .label .label-lec}":
