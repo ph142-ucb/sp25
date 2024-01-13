@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2024-02-19
     events:
-      "**No Class: Presidents' Day**":
+      "**No Lecture**{: .label .label-lec} Presidents' Day**":
   - date: 2024-02-21
     events:
       "**Participation**{: .label .label-parti} Mid-semester Evaluation":

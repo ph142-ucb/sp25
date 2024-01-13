@@ -1,19 +1,20 @@
 ---
 title: Week 12
 days:
-  - date: 2022-11-06
+  - date: 2024-04-01
     events:
-      "**Lecture 30**{: .label .label-lec} [The Chi-square Test for Two-way Tables](https://ph142-ucb.github.io/fa23/src/lec/Lec30_Inference-two-way-tables.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/GOa4RNkgptpdbnPS5--6Wkd9RWFlPIeG-vKMp4RHERZUEG7Sl6cSx5oNjgqFQkl9.O6HX5FewPQVHloiZ)":
-        "Ch. 22"
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 11:59 PM PST)":
-  - date: 2022-11-08
+      "**Lecture 27**{: .label .label-lec} ANOVA recap- post-hoc testing ":
+      "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":
+  - date: 2024-04-03
     events:
-      "**Lecture 31**{: .label .label-lec} [Permutation Tests](https://ph142-ucb.github.io/fa23/src/lec/Lec31_Permutation-Tests.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/nzNe-NIEjBWkAu5RomaOK_1C9cqiwOcVu1lTnuNCwaQY5bCVLe5VPjuTg_37uhaL.cnRTo8JGTS_lY9Yh)":
-      "**Lab 10**{: .label .label-lab} [Chi Squared Testing](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Nov 13th)":
-      "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) [(Solutions)](https://ph142-ucb.github.io/fa23/src/hw-sol/hw09-sol.pdf)":
-
-      
-  - date: 2022-11-10
+      "**Lecture 28**{: .label .label-lec} Non Parametrics ":
+        "Ch. 17"
+      "**Lab 9**{: .label .label-lab} Paired and Two-Sample T-Tests (Due Apr. 9th)":
+      "**Homework 9**{: .label .label-hw} ":
+  - date: 2024-04-05
     events:
-      "**No Class Veterans Day**":
+      "**Lecture 29**{: .label .label-lec} Inference for Regression": 
+        "Ch. 18"
+      "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 6th, 11:59 PM PST)":
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 ---

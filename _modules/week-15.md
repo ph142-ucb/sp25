@@ -1,15 +1,14 @@
 ---
 title: Week 15
 days:
-  - date: 2022-11-27
+  - date: 2023-04-24
     events:
-      "**Lecture 36**{: .label .label-lec} [Non-parametric Testing Alternatives](https://ph142-ucb.github.io/fa23/src/lec/Lec36_NonParamStat.pdf)[(Recording)](https://berkeley.zoom.us/rec/share/Xs4U1nNVqwVKE3lvjYQZ-oz4YafidKoiGeKnkryst9YNwBUFpOaHW5nB70DnL0w.HSb5nNFkA7yvM0-h)":
-  - date: 2022-11-29
+      "**Lecture 36**{: .label .label-lec} [wrapping up part III](https://ph142-ucb.github.io/sp23/src/wrap_up_sp23.pdf) ([Recording](https://youtu.be/JpXofJSEqlw))":
+  - date: 2023-04-26
     events:
-      "**Lecture 37**{: .label .label-lec} [Regression Modeling with a Categorical Exposure](https://ph142-ucb.github.io/fa23/src/lec/Lec37_Regression-with-categorica.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/a8_736_NLubhN5Qi4-fcI9rYYwWcaNF_iTtSG24_jpxNYFkNaUZvkTz51cXyK93d.tsCDUMbR2j12zX19)":
-      "**Lab**{: .label .label-lab} [Final Exam Review](https://docs.google.com/presentation/d/1bco_6YnnIHhU3Eic4N8WY2IoAHMDPStT1YiePpDbLnU/edit?usp=sharing)":
-  - date: 2022-12-01
+      "**Lecture 37**{: .label .label-lec} Structured Review ([Recording](https://youtu.be/1shGd_wsN3s))":
+      "**Lab**{: .label .label-lab} [Final Review](https://docs.google.com/presentation/d/1lkGV_6Fezy8XC6p-5GNbB620leHu5JEhteAPS8gQyS4/edit?usp=sharing)":
+  - date: 2023-04-28
     events:
-     "**Lecture 38**{: .label .label-lec} [Final Exam Review](https://ph142-ucb.github.io/fa23/src/lec/Lec38_Part-III_review.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/oqSzZ2CaYdq4xMQRcujSONXJB4X3mIBOLV7lZ-EfYhn1t9MyzjNMMV5NPPIot6J5.zckCsQ-tQERxJVOe)":
-     "**Data Project**{: .label .label-proj} Data Skills Demonstration Part III (Due 11:59 PM PST)":
+      "**Lecture 38**{: .label .label-lec} Gameshow Review ([Recording](https://youtu.be/e2NlkHTzSo4))": 
 ---
