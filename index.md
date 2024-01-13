@@ -25,7 +25,7 @@ We will not be updating this page with announcements. For the latest announcemen
 ## Important Information
 
 - **Lectures**: Monday, Wednesday, & Friday, 8:00 to 9:00 AM PST
-- **Location**: Internet/Online (link TBD)
+- **Location**: Internet/Online (link TBA)
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 16904
 - **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
