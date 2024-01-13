@@ -19,7 +19,7 @@ PH 142, Spring 2024
 </div>
 
 {% if site.announcements %}
-We will not be updating this page with announcements. For the latest announcements, make sure to check our [Ed](https://edstem.org/us/courses/44261).
+We will not be updating this page with announcements. For the latest announcements, make sure to check our [Ed](https://edstem.org/us/courses/53004).
 {% endif %}
 
 ## Important Information
