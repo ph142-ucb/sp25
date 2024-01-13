@@ -11,6 +11,6 @@ days:
       "**Lab**{: .label .label-lab} Midterm 2 Review Session ([Additional Practice Questions](https://ph142-ucb.github.io/sp24/src/additional-mt2-practice.pdf))":
   - date: 2024-03-15
     events:
-      "**Exam**{: .label .label-exam} Midterm 2 ":
+      "**Exam**{: .label .label-exam} **Midterm 2** ":
       "**No Lecture**{: .label .label-lec} ":
 ---

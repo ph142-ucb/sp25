@@ -3,7 +3,7 @@ title: Week 5
 days:
   - date: 2024-02-12
     events:
-      "**Exam**{: .label .label-exam} Midterm 1":
+      "**Exam**{: .label .label-exam} **Midterm 1**":
   - date: 2024-02-14
     events:
       "**Lecture 12**{: .label .label-lec} General Rules of Probability ":
