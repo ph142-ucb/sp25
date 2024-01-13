@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 20**{: .label .label-lec} Hypothesis Testing":
         "Ch. 14"
-      "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Mar. 13th)":
+      "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Mar. 12th)":
       "**Homework 7**{: .label .label-hw} ":
   - date: 2024-03-08
     events:
