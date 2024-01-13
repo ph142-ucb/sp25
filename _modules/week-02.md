@@ -7,9 +7,9 @@ days:
   - date: 2023-01-24
     events:
       "**Lecture 4**{: .label .label-lec} Describing Data with Numbers ":
-      "**Lab 2**{: .label .label-lab} [Visualization of Global Cesarean Delivery Rates](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Jan. 31st)":
+      "**Lab 2**{: .label .label-lab} Visualization of Global Cesarean Delivery Rates (Due Jan. 31st)":
         "Ch. 2"
-      "**Homework 2**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) ":
+      "**Homework 2**{: .label .label-hw} ":
   - date: 2023-01-26
     events:
       "**Lecture 5**{: .label .label-lec} Exploring Relationships Between Two Variables": 
