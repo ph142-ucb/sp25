@@ -9,6 +9,21 @@ description: An embedded Google Calendar displaying the weekly event schedule.
 
 ## Lecture, Lab, Office Hours
 
-Lectures and office hours are in black; lab, homework party and review sections are in green. Click on each day to see the expanded list of events and select the specific event for its location or Zoom link.
+Each calendar's events are color-coded:
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&title=PH142%20Calendar%20Fa23&src=Y18zNDIyOTQxMGQ1NjI5NGZmMGFlYzJiOTJhNjY2NDI4ZmRiZDIwMjI5OTBmNzkwNjhkZDlkZWIwNzRkMzcxYjQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19lMzEzNWQ5NWZiMTQ5ZTcyNmI4M2NiZWQwYThkZGE0YmQzZWUyOTY1ODA4MzI5OGM4NTBkNmRjNjg5MDMxZWJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19mODhlZDBjNWZhMGJjNzgxMDYyODA0OTQzOWU0YTA4ZDIyYTg2YzQ4ZGIyZTEwODUzNzFjOTI3OTg1YzdlNjYxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%2300a7af&color=%233F51B5&color=%230B8043" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<details open markdown="block">
+  <summary>
+    Lectures: yellow
+    Exams: orange
+    Lab/Review sections: green
+    Office Hours: blue/turquoise
+    Due Dates: gray
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+ Select the specific event for details its location or Zoom link. See [Ed Discussion](https://edstem.org/us/courses/53004) for the most recent and accurate announcements. 
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&showPrint=0&showCalendars=1&showTz=1&title=PH%20142%20Spring%202024&src=Y184N2I5OWIxZDE0NDQ4MTdkZjljYmMyYzlhYTkwZWJmYTAzNmY3NGJmOGM1MGJkNDg3OGIyNWQ3MzIwMzFmMDc0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18xZGE4YzgyOGI0YzZhN2I5OWVjYjIyYmQ2Nzk2NTBmNGQwNDI2YTJkYTZlOWM5NTYzYWM3ODlmZGVhMDQzMzMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18xZjRmOGYwNzhjMmNhYzQ5OTU2NjY2Y2Y3ODExZjExNjRlOWI0NzNiOTI0OTRhMjI4MDk2ZTMzYTJjMmNiYmNlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18wYzY0NDBjMWVmY2Y3MjhhZmQ4NjE1ZGViZDYzNjhhODA3MzA5Y2NlZmRlNWNkOTFlMTliYTI0NGY4MDViOTg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19kOWIwZDZhOGFiMTM2NTg5Njk1MmFhMmY4OWZmYjZiZjNmMTk5NzhiZjhiZWVkZWU1MTZmOTdlMzEyOTNmZjBmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441&color=%23616161&color=%23F09300&color=%23C0CA33&color=%23009688&color=%23795548" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

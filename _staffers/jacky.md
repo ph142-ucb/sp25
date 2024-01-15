@@ -1,5 +1,5 @@
 ---
-name: Kaiyuan Li (he/him/his)
+name: Kaiyuan Li (he/they/them)
 role: Teaching Assistant
 email: 
 website: 
