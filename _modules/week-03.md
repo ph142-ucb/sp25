@@ -9,11 +9,11 @@ days:
     events:
       "**Lecture 7**{: .label .label-lec} Two-way Tables ":
         "Ch. 5 & 6"
-      "**Lab 3**{: .label .label-lab} Relationship Between Global Cesarean Delivery Rates and GDP (Due Feb 7th)":
+      "**Lab 3**{: .label .label-lab} Relationship Between Global Cesarean Delivery Rates and GDP (Due Feb 6th)":
       "**Homework 3**{: .label .label-hw} ":
   - date: 2023-02-02
     events:
       "**Lecture 8**{: .label .label-lec} Samples and Observational Studies ": 
         "Ch. 7"
-      "**Quiz 3**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Feb. 3rd, 11:59 PM PST)":
+      "**Quiz 3**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Feb. 3rd, 12PM noon PST)":
 ---

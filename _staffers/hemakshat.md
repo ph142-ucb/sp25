@@ -1,5 +1,5 @@
 ---
-name: Hemakshat Sharma 
+name: Hemakshat Sharma (he/him/his)
 role: Teaching Assistant
 email: 
 website: 

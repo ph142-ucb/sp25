@@ -15,6 +15,6 @@ days:
     events:
       "**Lecture 18**{: .label .label-lec} Sampling and the Central Limit Theorem ": 
         "Ch. 13"
-      "**Quiz 5**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 2nd, 11:59 PM PST)":
+      "**Quiz 5**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 2nd, 12PM noon PST)":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
 ---

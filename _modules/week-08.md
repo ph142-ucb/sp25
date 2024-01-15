@@ -15,5 +15,5 @@ days:
     events:
       "**Lecture 21**{: .label .label-lec} Power and Sample Size ": 
         "Ch. 15"
-      "**Quiz 6**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 9th, 11:59 PM PST)":
+      "**Quiz 6**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 9th, 12PM noon PST)":
 ---

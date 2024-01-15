@@ -13,5 +13,5 @@ days:
     events:
       "**Lecture 32**{: .label .label-lec} Bootstrapping Confidence Intervals and some terms from Epidemiology ": 
         "Ch. 19"
-      "**Quiz 9**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 13th, 11:59 PM PST)":
+      "**Quiz 9**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 13th, 12PM noon PST)":
 ---

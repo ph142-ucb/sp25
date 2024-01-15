@@ -14,5 +14,5 @@ days:
   - date: 2024-04-19
     events:
       "**Lecture 35**{: .label .label-lec} Permutations": 
-      "**Quiz 10**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 20th, 11:59 PM PST)":
+      "**Quiz 10**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 20th, 12PM noon PST)":
 ---

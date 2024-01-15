@@ -13,5 +13,5 @@ days:
   - date: 2023-03-22
     events:
       "**Lecture 26**{: .label .label-lec} ANOVA ": 
-      "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 23rd, 11:59 PM PST)":
+      "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 23rd, 12PM noon PST)":
 ---

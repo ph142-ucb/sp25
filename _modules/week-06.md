@@ -15,5 +15,5 @@ days:
     events:
       "**Lecture 15**{: .label .label-lec} QQ plots and The Binomial Distribution ": 
         "Ch. 12"
-      "**Quiz 4**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Feb. 24th, 11:59 PM PST)":
+      "**Quiz 4**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Feb. 24th, 12PM noon PST)":
 ---
