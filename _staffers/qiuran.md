@@ -1,5 +1,5 @@
 ---
-name: Qiuran Lyu (she/her)
+name: Qiuran Rita Lyu (she/her)
 role: Teaching Assistant
 email: 
 website: 

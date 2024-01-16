@@ -37,7 +37,7 @@ For lab section and office hour schedules for each GSI, see the [calendar]({{ si
 
 ## Tutor
 
-The Dream Office offers peer-to-peer group tutoring sessions for residential PH142 graduate students. They do not offer 1:1 tutoring nor partake in grading and decision-making regarding course assignments. For more information about tutoring hours and offerings, see their most up-to-date [semester schedule](https://docs.google.com/spreadsheets/d/1uOg1wrUrsrepcuvFw_yu42HPLADSMIGGP0GIBnkPU3c/edit?usp=sharing) or contact biotutor_sphdiversity@berkeley.edu.
+The Dream Office offers peer-to-peer group tutoring sessions for residential PH142 graduate students. They do not offer 1:1 tutoring nor partake in grading and decision-making regarding course assignments. For more information about tutoring hours and offerings, see their most up-to-date [semester schedule](https://docs.google.com/spreadsheets/d/1uOg1wrUrsrepcuvFw_yu42HPLADSMIGGP0GIBnkPU3c/edit?usp=sharing) or contact [biotutor_sphdiversity@berkeley.edu](mailto:biotutor_sphdiversity@berkeley.edu).
 
 <div class="role">
   {% assign tutor = site.staffers | where: 'role', 'Tutor' %}
