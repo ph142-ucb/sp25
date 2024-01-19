@@ -7,7 +7,7 @@ days:
 
   - date: 2024-01-17
     events:
-      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC](https://ph142-ucb.github.io/sp24/src/lec/L01_intro_24.pdf)":
+      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC](https://ph142-ucb.github.io/sp24/src/lec/L01_intro_24.pdf)([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-1-recording))":
       "**Lab 1**{: .label .label-lab} [Probability Calculations](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Jan 23rd)":
       "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) ":
       
