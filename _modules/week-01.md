@@ -13,7 +13,7 @@ days:
       
   - date: 2024-01-19
     events:
-      "**Lecture 2**{: .label .label-lec} [Working with Data in R and Rstudio](https://ph142-ucb.github.io/sp24/src/lec/L02_working-with-data.pdf) ":
+      "**Lecture 2**{: .label .label-lec} [Working with Data in R and Rstudio](https://ph142-ucb.github.io/sp24/src/lec/L02_working-with-data.pdf)([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-2)) ":
       "**Quiz 1**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Jan. 20th, 12PM noon PST)":
       
 ---
