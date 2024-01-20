@@ -5,6 +5,7 @@ days:
     events:
       "**Lecture 24**{: .label .label-lec} Test for two means ":
         "Ch. 17"
+      "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part I ":
   - date: 2024-03-20
     events:
       "**Lecture 25**{: .label .label-lec} Paired T ":
