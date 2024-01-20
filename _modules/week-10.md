@@ -10,8 +10,9 @@ days:
       "**Lecture 25**{: .label .label-lec} Paired T ":
       "**Lab 8**{: .label .label-lab} T-Tests (Due Apr. 2nd)":
       "**Homework 8**{: .label .label-hw} ":
-  - date: 2023-03-22
+  - date: 2024-03-22
     events:
       "**Lecture 26**{: .label .label-lec} ANOVA ": 
       "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 23rd, 12PM noon PST)":
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 ---

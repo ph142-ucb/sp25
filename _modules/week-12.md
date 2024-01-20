@@ -16,5 +16,4 @@ days:
       "**Lecture 29**{: .label .label-lec} Inference for Regression": 
         "Ch. 18"
       "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 6th, 12PM noon PST)":
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 ---
