@@ -3,8 +3,7 @@ title: Week 12
 days:
   - date: 2024-04-01
     events:
-      "**Lecture 27**{: .label .label-lec} ANOVA recap- post-hoc testing ":
-      "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":
+      "**Lecture 27**{: .label .label-lec} ANOVA recap: post-hoc testing":
   - date: 2024-04-03
     events:
       "**Lecture 28**{: .label .label-lec} Non Parametrics ":
