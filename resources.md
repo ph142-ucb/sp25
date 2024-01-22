@@ -19,7 +19,7 @@ description: Resources for students
 
 | Prerequisites & Class Concepts Review                                                                                                                               | 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Order of Operations & Math Notation](https://www.youtube.com/watch?v=q169gG-f8NU) ([Notes](https://ph142-ucb.github.io/sp22/src/resource/review_math_nolan.pdf)) |
+| [Order of Operations & Math Notation](https://www.youtube.com/watch?v=q169gG-f8NU) ([Notes](https://ph142-ucb.github.io/sp24/src/resources/review_math_nolan.pdf)) |
 | [Manipulating Equations](https://www.youtube.com/watch?v=6zenzwW2iv8)                                                                                             |
 | [Logarithms](https://www.youtube.com/watch?v=3Ygq9CqaNlA)                                                                                                         |
 | [Line of Best Fit](https://www.youtube.com/watch?v=fQJCbrno2CQ)                                                                                                   |
