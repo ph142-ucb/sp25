@@ -9,8 +9,8 @@ days:
     events:
       "**Lecture 7**{: .label .label-lec} Two-way Tables ":
         "Ch. 5 & 6"
-      "**Lab 3**{: .label .label-lab} Relationship Between Global Cesarean Delivery Rates and GDP (Due Feb 6th)":
-      "**Homework 3**{: .label .label-hw} ":
+      "**Lab 3**{: .label .label-lab} [Relationship Between Global Cesarean Delivery Rates and GDP](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Feb 6th)":
+      "**Homework 3**{: .label .label-hw} [in Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)":
   - date: 2023-02-02
     events:
       "**Lecture 8**{: .label .label-lec} Samples and Observational Studies ": 
