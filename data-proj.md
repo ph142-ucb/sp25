@@ -10,7 +10,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
-[Group Confirmation Assignment](https://ph142-ucb.github.io/sp24/src/dp/Group-confirmation-practice-submission.pdf)
+[(View PDF of Group Confirmation Assignment)](https://ph142-ucb.github.io/sp24/src/dp/Group-confirmation-practice-submission.pdf)
 <a href="https://ph142-ucb.github.io/sp24/src/dp/Group-confirmation-practice-submission.Rmd">Download the .Rmd file</a>
 
 [Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp24/src/dp/part1_instructions.pdf)  
