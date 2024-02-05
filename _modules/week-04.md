@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2024-02-05
     events:
-      "**Lecture 9**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/sp24/src/lec/l09-study-design_sp24.pdf) ":
+      "**Lecture 9**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/sp24/src/lec/l09-study-design_sp24.pdf) ([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-09))":
         "Ch. 8"
   - date: 2024-02-07
     events:
