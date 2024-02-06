@@ -8,7 +8,7 @@ days:
   - date: 2024-02-07
     events:
       "**Lecture 10**{: .label .label-lec} Part 1 Summary ":
-      "**Lab**{: .label .label-lab} Midterm 1 Review Session":
+      "**Lab**{: .label .label-lab} [Midterm 1 Review Session](https://docs.google.com/presentation/d/1g2bSMOItfj0046WxJUeUB3yOH3sRZXrDKcamiMLxacw/edit?usp=sharing)":
   - date: 2024-02-09
     events:
       "**Lecture 11**{: .label .label-lec} Introduction to Probability ": 
