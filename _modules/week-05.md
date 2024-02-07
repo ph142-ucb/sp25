@@ -13,4 +13,5 @@ days:
   - date: 2024-02-16
     events:
       "**Lecture 13**{: .label .label-lec} Probability con. ":
+      "**Data Project**{: .label .label-proj} [Group Confirmation Checklist, on Gradescope](https://ph142-ucb.github.io/sp24/data-proj/)(Due 11:59 PM PST)":
 ---
