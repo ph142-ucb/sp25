@@ -11,6 +11,6 @@ days:
       "**Lab**{: .label .label-lab} [Midterm 1 Review Session](https://docs.google.com/presentation/d/1g2bSMOItfj0046WxJUeUB3yOH3sRZXrDKcamiMLxacw/edit?usp=sharing)":
   - date: 2024-02-09
     events:
-      "**Lecture 11**{: .label .label-lec} [Introduction to Probability](https://ph142-ucb.github.io/sp24/src/lec/l11-intro-to-probability.pdf) ": 
+      "**Lecture 11**{: .label .label-lec} [Introduction to Probability](https://ph142-ucb.github.io/sp24/src/lec/l11-intro-to-probability.pdf)([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-11)) ": 
         "Ch. 9"
 ---
