@@ -6,7 +6,7 @@ days:
       "**Exam**{: .label .label-exam} **Midterm 1**":
   - date: 2024-02-14
     events:
-      "**Lecture 12**{: .label .label-lec} [Probability part II](https://ph142-ucb.github.io/sp24/src/lec/l12-more-probability.pdf) ":
+      "**Lecture 12**{: .label .label-lec} [Probability part II](https://ph142-ucb.github.io/sp24/src/lec/l12-more-probability.pdf) ([recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-12-2))":
         "Ch. 10"
       "**Lab 4**{: .label .label-lab} [Screening and Precision Public Health](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Feb 20th)":
       "**Homework 4**{: .label .label-hw} [in Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)":
