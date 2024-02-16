@@ -12,6 +12,6 @@ days:
       "**Homework 4**{: .label .label-hw} [in Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)":
   - date: 2024-02-16
     events:
-      "**Lecture 13**{: .label .label-lec} [Probability continued](https://ph142-ucb.github.io/sp24/src/lec/l13-even-more-probability.pdf) ":
+      "**Lecture 13**{: .label .label-lec} [Probability continued](https://ph142-ucb.github.io/sp24/src/lec/l13-even-more-probability.pdf)([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-13)) ":
       "**Data Project**{: .label .label-proj} [Group Confirmation Checklist, on Gradescope](https://ph142-ucb.github.io/sp24/data-proj/)(Due 11:59 PM PST)":
 ---
