@@ -6,7 +6,7 @@ days:
       "**No Lecture**{: .label .label-lec} Presidents' Day":
   - date: 2024-02-21
     events:
-      "**Participation**{: .label .label-parti} Mid-semester Evaluation":
+      "**Participation**{: .label .label-parti} [Mid-semester Evaluation](https://forms.gle/ZgMDuQBFPShqi84s5) (by Mar. 1st)":
       "**Lecture 14**{: .label .label-lec} The Normal Distribution ":
         "Ch. 10 & 11"
       "**Lab 5**{: .label .label-lab} [Independence, Screening, and Normal Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)(Due Feb. 27th)":
