@@ -13,7 +13,7 @@ days:
       "**Homework 5**{: .label .label-hw} [(on datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)":
   - date: 2024-02-23
     events:
-      "**Lecture 15**{: .label .label-lec} [QQ plots and The Binomial Distribution](https://ph142-ucb.github.io/sp24/src/lec/l15-normal-binomial.pdf) ": 
+      "**Lecture 15**{: .label .label-lec} [QQ plots and The Binomial Distribution](https://ph142-ucb.github.io/sp24/src/lec/l15-normal-binomial.pdf)([recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-15-2)) ": 
         "Ch. 12"
       "**Quiz 4**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Feb. 24th, 12PM noon PST)":
 ---
