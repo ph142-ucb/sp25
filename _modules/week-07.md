@@ -12,8 +12,8 @@ days:
   - date: 2024-02-28
     events:
       "**Lecture 17**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/sp24/src/lec/l17-poisson.pdf) ":
-      "**Lab 6**{: .label .label-lab} Normal, Binomial, and Poisson Distribution (Due Mar. 5th)":
-      "**Homework 6**{: .label .label-hw} ":
+      "**Lab 6**{: .label .label-lab} [Normal, Binomial, and Poisson Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)(Due Mar. 5th)":
+      "**Homework 6**{: .label .label-hw} [(on Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)":
   - date: 2024-03-01
     events:
       "**Lecture 18**{: .label .label-lec} [Sampling and the Central Limit Theorem](https://ph142-ucb.github.io/sp24/src/lec/l18-central-limit.pdf) ": 
