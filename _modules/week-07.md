@@ -3,7 +3,7 @@ title: Week 7
 days:
   - date: 2024-02-26
     events:
-      "**Lecture 16**{: .label .label-lec} [The Binomial Distribution part II](https://ph142-ucb.github.io/sp24/src/lec/l16-binomial.pdf) ":
+      "**Lecture 16**{: .label .label-lec} [The Binomial Distribution part II](https://ph142-ucb.github.io/sp24/src/lec/l16-binomial.pdf) ([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/l16))":
         "Ch. 12"
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part I ":
   - date: 2024-02-27
