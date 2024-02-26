@@ -59,6 +59,7 @@ description: Resources for students
 |                | [Fa21 Midterm 2](https://ph142-ucb.github.io/sp24/src/resources/mt2/mt2_fa21.pdf) | [Fa21 Midterm 2 Solutions](https://ph142-ucb.github.io/sp24/src/resources/mt2/mt2_fa21_SOLUTIONS.pdf) |
 |                | [Fa22 Midterm 2](https://ph142-ucb.github.io/sp24/src/resources/mt2/mt2_fa22.pdf) | [Fa22 Midterm 2 Solutions](https://ph142-ucb.github.io/sp24/src/resources/mt2/mt2_fa22_SOLUTIONS.pdf) |
 |----------------|-------------------------------|--------------------------------|
+
 <!--
 | Final          | [Fa19 Final](https://ph142-ucb.github.io/sp24/src/resources/final/final_fa19.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/sp24/src/resources/final/final_fa19_SOLUTIONS.pdf) |
 |                | [Fa20 Final](https://ph142-ucb.github.io/sp24/src/resources/final/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/sp24/src/resources/final/final_fa20_SOLUTIONS.pdf) |
