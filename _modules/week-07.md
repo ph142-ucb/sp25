@@ -16,7 +16,7 @@ days:
       "**Homework 6**{: .label .label-hw} [(on Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)":
   - date: 2024-03-01
     events:
-      "**Lecture 18**{: .label .label-lec} [Sampling and the Central Limit Theorem](https://ph142-ucb.github.io/sp24/src/lec/l18-central-limit.pdf) ": 
+      "**Lecture 18**{: .label .label-lec} [Sampling and the Central Limit Theorem](https://ph142-ucb.github.io/sp24/src/lec/l18-central-limit.pdf) ([recording](https://bcourses.berkeley.edu/courses/1532521/pages/l18-clt))": 
         "Ch. 13"
       "**Quiz 5**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 2nd, 12PM noon PST)":   
 ---
