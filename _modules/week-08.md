@@ -3,7 +3,7 @@ title: Week 8
 days:
   - date: 2024-03-04
     events:
-      "**Lecture 19**{: .label .label-lec} Confidence Intervals ":
+      "**Lecture 19**{: .label .label-lec} [Confidence Intervals](https://ph142-ucb.github.io/sp24/src/lec/l19-confidence.pdf) ":
         "Ch. 13"
   - date: 2024-03-06
     events:
