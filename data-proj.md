@@ -19,16 +19,16 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1rV8MwHR8yLP1fM780hXVD1VS80QKJlBswcKhhmUh6SE/edit?usp=sharing) to ensure you are using a valid dataset!
 - You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/1_9VLmLDYjhxRNm4tJaLvnecZ61H8Am9U5TVKglhvdAs/edit).
 
-<!---
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa23/src/dp/part2_instructions.pdf)  
+
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp24/src/dp/part2_instructions.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/1e06NcQemsUQrs_tLFVaX0O-07ypL-BePP97Ueup5z10/edit?usp=sharing).
 
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa23/src/dp/part3-instructions.pdf)  
+[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp24/src/dp/part3-instructions.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/1bbfUH-jNchqAgElcLBRzL5lMizuU0RZPJfP4yUQbhXY/edit?usp=sharing).
--->
+
 
 <hr>
 
