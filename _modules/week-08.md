@@ -9,8 +9,8 @@ days:
     events:
       "**Lecture 20**{: .label .label-lec} Hypothesis Testing":
         "Ch. 14"
-      "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Mar. 12th)":
-      "**Homework 7**{: .label .label-hw} ":
+      "**Lab 7**{: .label .label-lab} [Confidence Intervals and P-Hacking](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Mar. 12th)":
+      "**Homework 7**{: .label .label-hw} [on Gradescope](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) ":
   - date: 2024-03-08
     events:
       "**Lecture 21**{: .label .label-lec} Power and Sample Size ": 
