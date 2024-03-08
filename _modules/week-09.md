@@ -8,7 +8,7 @@ days:
     events:
       "**Lecture 23**{: .label .label-lec} Part 2 recap ":
       "**Lecture**{: .label .label-lec} Drop in OH Review ":
-      "**Lab**{: .label .label-lab} Midterm 2 Review Session ([Additional Practice Questions](https://ph142-ucb.github.io/sp24/src/additional-mt2-practice.pdf))":
+      "**Lab**{: .label .label-lab} [Midterm 2 Review Session](https://docs.google.com/presentation/d/1UaytIF_8nSjMP6QGPLAlgpBhdzZDr5cfXrbNzz2sxt8/edit?usp=sharing) ([Additional Practice Questions](https://ph142-ucb.github.io/sp24/src/additional-mt2-practice.pdf))":
   - date: 2024-03-15
     events:
       "**Exam**{: .label .label-exam} **Midterm 2** ":
