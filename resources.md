@@ -7,7 +7,7 @@ description: Resources for students
 # Resources
 
 - [PH 142 Course Overview Interactive Presentation](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)
-- [FAQs and Common Errors](https://ph142-ucb.github.io/fa23/src/resources/faq/)
+- [FAQs and Common Errors](https://ph142-ucb.github.io/sp24/src/resources/faq/)
 - [PH 142 R Cheat Sheet](https://docs.google.com/document/d/1mVhjngYDDcrlOvaBB5SfuKaU3O1btxZU45BOj0DXc48/edit#) 
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Data Visualization Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
