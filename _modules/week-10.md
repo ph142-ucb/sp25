@@ -3,17 +3,17 @@ title: Week 10
 days:
   - date: 2024-03-18
     events:
-      "**Lecture 24**{: .label .label-lec} Test for two means ":
+      "**Lecture 24**{: .label .label-lec} [Test for two means](https://ph142-ucb.github.io/sp24/src/lec/flavors-of-t.pdf) ":
         "Ch. 17"
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":
   - date: 2024-03-20
     events:
-      "**Lecture 25**{: .label .label-lec} Paired T ":
+      "**Lecture 25**{: .label .label-lec} [Paired T](https://ph142-ucb.github.io/sp24/src/lec/paired-t.pdf) ":
       "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Apr. 2nd)":
       "**Homework 8**{: .label .label-hw} ":
   - date: 2024-03-22
     events:
-      "**Lecture 26**{: .label .label-lec} ANOVA ": 
+      "**Lecture 26**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp24/src/lec/anova.pdf) ": 
       "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 23rd, 12PM noon PST)":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 ---
