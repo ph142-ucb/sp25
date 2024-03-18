@@ -3,7 +3,7 @@ title: Week 10
 days:
   - date: 2024-03-18
     events:
-      "**Lecture 24**{: .label .label-lec} [Test for two means](https://ph142-ucb.github.io/sp24/src/lec/flavors-of-t.pdf) ":
+      "**Lecture 24**{: .label .label-lec} [Test for two means](https://ph142-ucb.github.io/sp24/src/lec/flavors-of-t.pdf) ([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/two-sample-t))":
         "Ch. 17"
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":
   - date: 2024-03-20
