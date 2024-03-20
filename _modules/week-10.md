@@ -8,7 +8,7 @@ days:
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":
   - date: 2024-03-20
     events:
-      "**Lecture 25**{: .label .label-lec} [Paired T](https://ph142-ucb.github.io/sp24/src/lec/paired-t.pdf) ":
+      "**Lecture 25**{: .label .label-lec} [Paired T](https://ph142-ucb.github.io/sp24/src/lec/paired-t.pdf)([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/paired-t))":
       "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Apr. 2nd)":
       "**Homework 8**{: .label .label-hw} [On datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)":
   - date: 2024-03-22
