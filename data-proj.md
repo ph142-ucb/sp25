@@ -36,9 +36,9 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 - **Confirmation Checklist is due February 16th at 11:59 pm PST**
 
-- **Part I is due on February 27th at 10:00 pm PST**
-- **Part II is due on April 1st at 8:00 am PST**
-- **Part III is due on May 6th at 12:00 pm PST (noon)**
+- **Part I is due on February 27th at 10:00 PM PST**
+- **Part II is due on April 1st at 10:00 AM PST**
+- **Part III is due on May 6th at 12:00 PM PST (noon)**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -79,13 +79,13 @@ Because we are asking you to provide some visualizations and use the same datase
 There are a few ways you can contact your GSI:
 
 1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Paula Marquez)
-2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/fa23/calendar/)
+2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/sp24/calendar/)
 3. Email <142gsi@berkeley.edu> with the subject line "[Data Project] GSI ________ - ..."
 
 GSI's will do their best to respond to all emails/posts within 24 hours.
 
 <!---
-## Data Skills Demonstration Project Part I
+## Data Skills Demonstration Project Part II
 
-<iframe src="https://ph142-ucb.github.io/fa22/src/dp/part1_instructions.pdf" width="100%" height="800"></iframe> 
+<iframe src="https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp23.pdf" width="100%" height="800"></iframe> 
 -->

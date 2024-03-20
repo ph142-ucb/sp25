@@ -3,7 +3,7 @@ title: Week 12
 days:
   - date: 2024-04-01
     events:
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 8:00 AM PST)":
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 AM PST)":
       "**Lecture 27**{: .label .label-lec} ANOVA recap: post-hoc testing - lecture will be pre-recorded":
   - date: 2024-04-03
     events:
