@@ -37,7 +37,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - **Confirmation Checklist is due February 16th at 11:59 pm PST**
 
 - **Part I is due on February 27th at 10:00 pm PST**
-- **Part II is due on March 22nd at 10:00 pm PST**
+- **Part II is due on April 1st at 8:00 am PST**
 - **Part III is due on May 6th at 12:00 pm PST (noon)**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**

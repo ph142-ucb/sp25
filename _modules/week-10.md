@@ -15,5 +15,4 @@ days:
     events:
       "**Lecture 26**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp24/src/lec/anova.pdf) ": 
       "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Mar. 23rd, 12PM noon PST)":
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 ---
