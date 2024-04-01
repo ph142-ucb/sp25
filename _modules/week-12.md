@@ -3,7 +3,7 @@ title: Week 12
 days:
   - date: 2024-04-01
     events:
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 AM PST)":
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 11:59 PM PST)":
       "**Lecture 27**{: .label .label-lec} [ANOVA recap: post-hoc testing](https://ph142-ucb.github.io/sp24/src/lec/post_anova.pdf) ([lecture recording](https://bcourses.berkeley.edu/courses/1532521/pages/anova))":
   - date: 2024-04-03
     events:
