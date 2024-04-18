@@ -5,6 +5,7 @@ days:
     events:
       "**Lecture 33**{: .label .label-lec} [Goodness of Fit](https://ph142-ucb.github.io/sp24/src/lec/goodnessoffit.pdf)([recording](https://bcourses.berkeley.edu/courses/1532521/pages/chi-squared-fit)) ":
         "Ch. 20"
+      "**Participation**{: .label .label-parti} Course Evaluation EC open on Gradescope [(https://www.gradescope.com/courses/704333/assignments/4364385)] ":
   - date: 2024-04-17
     events:
       "**Lecture 34**{: .label .label-lec} [Chi-Squared](https://ph142-ucb.github.io/sp24/src/lec/chisquared.pdf)([recording](https://bcourses.berkeley.edu/courses/1532521/pages/chi-2)) ":

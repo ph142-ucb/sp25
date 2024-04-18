@@ -11,4 +11,5 @@ days:
   - date: 2023-04-26
     events:
       "**Lecture 38**{: .label .label-lec} Gameshow Review ": 
+       "**Extra Credit**{: .label .label-parti} Course Evaluation screenshot to [(Gradescope)](https://www.gradescope.com/courses/704333/assignments/4364385) ":
 ---
