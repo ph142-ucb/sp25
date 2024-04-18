@@ -11,5 +11,5 @@ days:
   - date: 2023-04-26
     events:
       "**Lecture 38**{: .label .label-lec} Gameshow Review ": 
-      "**Extra Credit**{: .label .label-parti} Due on [(Gradescope)](https://www.gradescope.com/courses/704333/assignments/4364385): Stats is Everywhere or Compelling Study":
+      "**Extra Credit**{: .label .label-parti} Due on [(Gradescope)](https://www.gradescope.com/courses/704333): Stats is Everywhere or Compelling Study":
 ---
