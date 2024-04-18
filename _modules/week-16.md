@@ -11,5 +11,5 @@ days:
   - date: 2024-05-03
     events:   
        "**No Lecture**{: .label .label-lec}": 
-       "**Course Evaluation**{: .label .label-parti} Due [on Gradescope](https://www.gradescope.com/courses/704333/assignments/4364385) for extra credit ":      
+       "**Course Evaluation**{: .label .label-parti} Screenshot due [(to Gradescope)](https://www.gradescope.com/courses/704333/assignments/4364385) for extra credit ":      
 ---
