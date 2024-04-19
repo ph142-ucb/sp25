@@ -14,6 +14,6 @@ days:
       "**Homework 11**{: .label .label-hw} [On Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main)":
   - date: 2024-04-19
     events:
-      "**Lecture 35**{: .label .label-lec} [Permutations](https://ph142-ucb.github.io/sp24/src/lec/permute.pdf)": 
+      "**Lecture 35**{: .label .label-lec} [Permutations](https://ph142-ucb.github.io/sp24/src/lec/permute.pdf)([recording](https://bcourses.berkeley.edu/courses/1532521/pages/permute))": 
       "**Quiz 10**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 20th, 12PM noon PST)":
 ---
