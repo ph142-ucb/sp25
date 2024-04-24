@@ -3,10 +3,10 @@ title: Week 15
 days:
   - date: 2024-04-22
     events:
-      "**Lecture 36**{: .label .label-lec} Wrapping up part III ([Review week recordings](https://bcourses.berkeley.edu/courses/1532521/pages/review-sessions))":
+      "**Lecture 36**{: .label .label-lec} [Review part I-II](https://ph142-ucb.github.io/sp24/src/lec/wrap-up-p1-2.pdf) ([Review week recordings](https://bcourses.berkeley.edu/courses/1532521/pages/review-sessions))":
   - date: 2023-04-24
     events:
-      "**Lecture 37**{: .label .label-lec} Structured Review ":
+      "**Lecture 37**{: .label .label-lec} [Review part II-III](https://ph142-ucb.github.io/sp24/src/lec/Final_review_sp24.pdf) ":
       "**Lab**{: .label .label-lab} Final Review ":
   - date: 2023-04-26
     events:
