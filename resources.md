@@ -11,6 +11,7 @@ description: Resources for students
 - [PH 142 R Cheat Sheet](https://docs.google.com/document/d/1mVhjngYDDcrlOvaBB5SfuKaU3O1btxZU45BOj0DXc48/edit#) 
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Data Visualization Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
+- [Sp24 Lab Section Slides + Additional Content](https://drive.google.com/drive/u/1/folders/1py_6_0SHYJONEgTxiDnCjCcx7WDLVnaT)
 - [Lab Notes & Quick Checks](https://docs.google.com/document/d/1mzU-mUZRzfSP5I1XY0tTvm5EfVqJfd9EBZgEpLFlIzo/edit#heading=h.4im559r5sk9y)
 - [Distribution Visualization App](https://geneho.shinyapps.io/oomphstat-v2/_w_ff2f84d7/_w_c7a34e2e/)
 
