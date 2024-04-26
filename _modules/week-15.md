@@ -10,6 +10,6 @@ days:
       "**Lab**{: .label .label-lab} [Final Review](https://docs.google.com/presentation/d/1jXjYScPnb02lFW1LZIzj-_sDix0bpBH9BF_z8nuYIBY) ":
   - date: 2023-04-26
     events:
-      "**Lecture 38**{: .label .label-lec} Additional Review ": 
+      "**Lecture 38**{: .label .label-lec} [Annotated review slides](https://ph142-ucb.github.io/sp24/src/lec/Final_review_sp24 - flattened.pdf) ": 
       "**Extra Credit**{: .label .label-parti} Due on [(Gradescope)](https://www.gradescope.com/courses/704333): Stats is Everywhere or Compelling Study":
 ---
