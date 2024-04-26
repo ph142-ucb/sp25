@@ -69,7 +69,12 @@ ui <- fluidPage(
   	column(2,
 			numericInput("q8", "Quiz 8", value = NA, min = 0, max = 100, step = 1)),
   	column(2,
-			numericInput("q9", "Quiz 9", value = NA, min = 0, max = 100, step = 1))),
+			numericInput("q9", "Quiz 9", value = NA, min = 0, max = 100, step = 1)),
+    column(2,
+      numericInput("q10", "Quiz 10", value = NA, min = 0, max = 100, step = 1))),
+  fluidRow(
+    column(2,
+           numericInput("q11", "Quiz 11 (EC)", value = NA, min = 0, max = 100, step = 1))),
   fluidRow(
     column(4,
            div(textOutput("quiz_avg_out"), style = "color: blue;"))),
@@ -95,7 +100,7 @@ ui <- fluidPage(
     column(3,
            numericInput(("group"), "Data Skills Demonstration Project", value = 50, min = 0, max = 100)),
     column(3,
-           numericInput(("ec1"), "EC: Statistics is Everywhere", value = 0, min = 0, max = 100)),
+           numericInput(("ec1"), "EC: Stats is Everywhere/Compelling Study", value = 0, min = 0, max = 100)),
 	),
   hr(),
   fluidRow(
@@ -172,12 +177,14 @@ server <- function(input, output) {
                      input$q6, 
   	                 input$q7, 
   	                 input$q8, 
-  	                 input$q9)
+  	                 input$q9,
+  	                 input$q10,
+  	                 input$q11)
   	
   	if (length(quiz_grades[!is.na(quiz_grades)]) == 1) {
   	  return(sum(quiz_grades, na.rm = T))
   	} else {
-  	  return(avg_drop_x_lowest(quiz_grades, drops = 1))
+  	  return(avg_drop_x_lowest(quiz_grades, drops = 2))
   	}
   })
 
