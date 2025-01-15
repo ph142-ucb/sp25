@@ -3,7 +3,7 @@ title: Week 1
 days:
   - date: 2025-01-20
     events:
-      "**No Lecture**{: .label .label-purple} **Martin Luther King Jr. Day**":
+      "**No Lecture**{: .label .label-purple} Martin Luther King Jr. Day":
       "**Participation**{: .label .label-parti} Needs Assessment":
 
   - date: 2025-01-22
