@@ -7,7 +7,7 @@ description: Instructions on how to access the digital textbook "The Practice of
 
 # Accessing "The Practice of Statistics in the Life Sciences" (Fourth Edition)
 
-![Textbook Cover](https://ph142-ucb.github.io/fa24/src/textbook.jpeg)
+![Textbook Cover](https://ph142-ucb.github.io/sp25/src/textbook.jpeg)
 
 <hr>
 

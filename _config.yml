@@ -34,8 +34,6 @@ nav_links:
     - 'https://edstem.org/us/courses/70181'
   Datahub:
     - 'https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master'
-  Textbook:
-    - 'https://ph142-ucb.github.io/sp25/textbook/'
   Grade Calculator:
     - 'https://sph-ph142.shinyapps.io/grading-app/'
   
