@@ -12,5 +12,5 @@ days:
   - date: 2024-05-09
     events:   
        "**No Lecture**{: .label .label-purple}": 
-       "**Extra Credit**{: .label .label-green} Submit course evaluation screenshot to Gradescope for extra credit ":      
+       "**Extra Credit**{: .label .label-green} Submit course evaluation screenshot to Gradescope ":      
 ---

@@ -13,7 +13,7 @@ days:
 
   - date: 2025-02-14
     events:
-      "**Lecture 11**{: .label .label-lec} [Introduction to Probability](https://ph142-ucb.github.io/sp24/src/lec/l11-intro-to-probability.pdf)([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-11)) ": 
+      "**Lecture 11**{: .label .label-lec} Introduction to Probability ": 
         "Ch. 9"
       "**Data Project**{: .label .label-proj} Group Confirmation Checklist, on Gradescope (Due 11:59 PM PST)":
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part I ":

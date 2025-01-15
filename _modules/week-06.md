@@ -10,14 +10,14 @@ days:
 
   - date: 2025-02-26
     events:
-      "**Lecture 14**{: .label .label-lec} [QQ plots and The Binomial Distribution](https://ph142-ucb.github.io/sp24/src/lec/l15-normal-binomial.pdf)([recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-15-2)) ": 
+      "**Lecture 14**{: .label .label-lec} QQ plots and The Binomial Distribution ": 
         "Ch. 12"
       "**Lab 5**{: .label .label-lab} Independence, Screening, and Normal Distribution (Due Mar. 4th)":
       "**Homework 5**{: .label .label-hw} on Datahub ":
 
   - date: 2025-02-28
     events:
-      "**Lecture 15**{: .label .label-lec} [The Binomial Distribution part II](https://ph142-ucb.github.io/sp24/src/lec/l16-binomial.pdf) ([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/l16))":
+      "**Lecture 15**{: .label .label-lec} The Binomial Distribution part II ":
         "Ch. 12"
-      "**Quiz 4**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Feb. 24th, 12PM noon PST)":
+      "**Quiz 4**{: .label .label-quiz} on Gradescope (Due Feb. 24th, 12PM noon PST)":
 ---
