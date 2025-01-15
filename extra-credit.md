@@ -54,7 +54,7 @@ solution guide corresponding to topics covered during that lecture.
 
 <hr> -->
 
-## Extra Credit - Statistics is Everywhere
+<!--## Extra Credit - Statistics is Everywhere
 
 Throughout the term, we have (and will continue to) include a recurring “Statistics is Everywhere” segment,
 highlighting statistical content you may see in news, social media, or other places. The goal is to demonstrate
@@ -68,3 +68,4 @@ and demonstrate this kind of critical thinking
 
 <iframe src="https://ph142-ucb.github.io/sp24/src/ec/ec-statistics-is-everywhere_sp24.pdf" width="100%" height="800"></iframe>
 
+-->
