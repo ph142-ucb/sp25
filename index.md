@@ -8,7 +8,7 @@ description: >-
 
 # Introduction to Probability and Statistics in Biology and Public Health
 {: .mb-2 }
-PH 142, Spring 2024
+PH 142, Spring 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -25,7 +25,7 @@ We will not be updating this page with announcements. For the latest announcemen
 ## Important Information
 
 - **Lectures**: Monday, Wednesday, & Friday, 8:00 to 9:00 AM PST
-- **Location**: [Internet/Online](https://berkeley.zoom.us/j/99800955073?pwd=VjAyNVc0NWtTcHhrYnVVMzBFT1hnUT09)
+- **Location**: Internet/Online (link TBD)
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 16904
 - **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)

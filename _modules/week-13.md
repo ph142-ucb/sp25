@@ -1,17 +1,17 @@
 ---
 title: Week 13
 days:
-  - date: 2024-04-08
+  - date: 2025-04-14
     events:
-      "**Lecture 30**{: .label .label-lec} [Inference for Proportions](https://ph142-ucb.github.io/sp24/src/lec/proportions.pdf)([recording](https://bcourses.berkeley.edu/courses/1532521/pages/one-proportion))([recording](https://bcourses.berkeley.edu/courses/1532521/pages/two-proportions)) ":
-  - date: 2024-04-10
+      "**Lecture 30**{: .label .label-lec} Inference for Proportions ":
+  - date: 2025-04-16
     events:
-      "**Lecture 31**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/sp24/src/lec/2prop.pdf)([recording](https://bcourses.berkeley.edu/courses/1532521/pages/two-proportions)) ":
-      "**Lab 10**{: .label .label-lab} [Proportions and Inference for Regression](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Apr. 16th)":
-      "**Homework 10**{: .label .label-hw} [On Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) [Solutions](https://ph142-ucb.github.io/sp24/src/hw-sol/hw10-sol.pdf)":
-  - date: 2024-04-12
+      "**Lecture 31**{: .label .label-lec} Comparing Two Proportions ":
+      "**Lab 10**{: .label .label-lab} Proportions and Inference for Regression (Due Apr. 22nd)":
+      "**Homework 10**{: .label .label-hw} on Datahub":
+  - date: 2025-04-18
     events:
-      "**Lecture 32**{: .label .label-lec} [Bootstrapping Confidence Intervals and some terms from Epidemiology](https://ph142-ucb.github.io/sp24/src/lec/odds_risks_bootstraps.pdf)([recording](https://bcourses.berkeley.edu/courses/1532521/pages/bootstrap)) ": 
+      "**Lecture 32**{: .label .label-lec} Bootstrapping Confidence Intervals and some terms from Epidemiology ": 
         "Ch. 19"
-      "**Quiz 9**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 13th, 12PM noon PST)":
+      "**Quiz 9**{: .label .label-quiz} on Gradescope (Due Apr. 19th)":
 ---

@@ -3,17 +3,18 @@ title: Week 1
 days:
   - date: 
     events:
-      "**Participation**{: .label .label-parti} [Needs Assessment](https://docs.google.com/forms/d/e/1FAIpQLSeDZmJiYBIcLXV3ryGQkcsOkt7Tw-2Qsqj6ReD-nF3i2NhrYQ/viewform?usp=sf_link) ":
+      "**No Lecture**{: .label .label-purple} **Martin Luther King Jr. Day**":
+      "**Participation**{: .label .label-parti} Needs Assessment":
 
-  - date: 2024-01-17
+  - date: 2025-01-22
     events:
-      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC](https://ph142-ucb.github.io/sp24/src/lec/L01_intro_24.pdf)([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-1-recording))":
-      "**Lab 1**{: .label .label-lab} [Probability Calculations](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) (Due Jan 23rd)":
-      "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp24&urlpath=rstudio%2F&branch=main) [(Solutions)](https://ph142-ucb.github.io/sp24/src/hw-sol/hw01-sol.pdf)":
+      "**Lecture 1**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC":
+      "**Lab 1**{: .label .label-lab} Probability Calculations (Due Jan 28th)":
+      "**Homework 1**{: .label .label-hw} on Datahub (not submitted for credit; solutions released on Jan. 26th)":
       
-  - date: 2024-01-19
+  - date: 2025-01-24
     events:
-      "**Lecture 2**{: .label .label-lec} [Working with Data in R and Rstudio](https://ph142-ucb.github.io/sp24/src/lec/L02_working-with-data.pdf)([Recording](https://bcourses.berkeley.edu/courses/1532521/pages/lecture-2)) ":
-      "**Quiz 1**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Jan. 20th, 12PM noon PST)":
+      "**Lecture 2**{: .label .label-lec} Working with Data in R and Rstudio":
+      "**Quiz 1**{: .label .label-quiz} on Gradescope (Due Jan. 25th, 12PM noon PST)":
       
 ---
