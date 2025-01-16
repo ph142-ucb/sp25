@@ -19,5 +19,5 @@ days:
     events:
       "**Lecture 15**{: .label .label-lec} The Binomial Distribution part II ":
         "Ch. 12"
-      "**Quiz 4**{: .label .label-quiz} on Gradescope (Due Feb. 24th, 12PM noon PST)":
+      "**Quiz 4**{: .label .label-quiz} on Gradescope (Due Mar. 1st)":
 ---
