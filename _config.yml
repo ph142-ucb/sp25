@@ -19,7 +19,7 @@ author: Paula Marquez
 email: paulamarquez@berkeley.edu
 baseurl: '/sp25' # the subpath of your site, e.g. /blog
 url: 'https://ph142-ucb.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "schedule.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "schedule.md",extra-credit.md]
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.7
@@ -34,8 +34,6 @@ nav_links:
     - 'https://edstem.org/us/courses/70181'
   Datahub:
     - 'https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master'
-  Grade Calculator:
-    - 'https://sph-ph142.shinyapps.io/grading-app/'
   
 nav_footer_content: "Powered by <a href=\"https://github.com/kevinlin1/just-the-class\">Just the Class</a>"
 

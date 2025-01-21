@@ -8,8 +8,6 @@ photo: https://ph142-ucb.github.io/sp25/img/mi-suk.jpeg
 
 **Office Hours:** By appointment only. 
 
-2121 Berkeley Way West, Rm 5332
-
 [Schedule an appointment](https://mi-suk.youcanbook.me){: .btn .btn-outline }
 
 [Zoom Link to Scheduled Appointment](https://berkeley.zoom.us/j/6119016101){: .btn .btn-outline}
