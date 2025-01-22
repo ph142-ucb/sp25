@@ -9,7 +9,7 @@ days:
   - date: 2025-01-22
     events:
       "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC](https://ph142-ucb.github.io/sp25/src/lec/L01_intro_25.pdf)[(Zoom Link)](https://berkeley.zoom.us/j/95622231162?pwd=ifYqsI04rhGMLzZMpF53E5fofPJKkv.1)":
-      "**Lab 1**{: .label .label-lab} Introduction to R and R-Studio (Due Jan 25th)":
+      "**Lab 1**{: .label .label-lab} [Introduction to R and R-Studio](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) (Due Jan 25th)":
       "**Homework 1**{: .label .label-hw} on Datahub (not submitted for credit; solutions released on Jan. 26th)":
       
   - date: 2025-01-24
