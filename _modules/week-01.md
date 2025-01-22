@@ -15,6 +15,6 @@ days:
   - date: 2025-01-24
     events:
       "**Lecture 2**{: .label .label-lec} Working with Data in R and Rstudio":
-      "**Quiz 1**{: .label .label-quiz} on Gradescope (Due Jan. 25th, 12PM noon PST)":
+      "**Quiz 1**{: .label .label-quiz} on Gradescope (opens Jan 24th, 9AM; due Jan. 25th, 12PM noon PST)":
       
 ---
