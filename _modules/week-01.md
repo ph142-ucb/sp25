@@ -8,7 +8,7 @@ days:
 
   - date: 2025-01-22
     events:
-      "**Lecture 1**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC":
+      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC](https://berkeley.zoom.us/j/95622231162?pwd=ifYqsI04rhGMLzZMpF53E5fofPJKkv.1)":
       "**Lab 1**{: .label .label-lab} Introduction to R and R-Studio (Due Jan 28th)":
       "**Homework 1**{: .label .label-hw} on Datahub (not submitted for credit; solutions released on Jan. 26th)":
       
