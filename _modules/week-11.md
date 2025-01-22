@@ -11,7 +11,7 @@ days:
     events:
       "**Lecture 25**{: .label .label-lec} Test for two means ":
         "Ch. 18"
-      "**Lab 8**{: .label .label-lab} T-Tests (Due Apr. 8th)":
+      "**Lab 8**{: .label .label-lab} T-Tests (Due Apr. 5th)":
       "**Homework 8**{: .label .label-hw} on Datahub ":
 
   - date: 2025-04-04

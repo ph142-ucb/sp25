@@ -9,7 +9,7 @@ days:
     events:
       "**Exam**{: .label .label-exam} **Midterm 1**":
       "**No Lecture**{: .label .label-purple} ":
-      "**Lab 4**{: .label .label-lab} Screening and Precision Public Health (Due Feb 25th)":
+      "**Lab 4**{: .label .label-lab} Screening and Precision Public Health (Due Feb 22nd)":
       "**Homework 4**{: .label .label-hw} on Datahub":
 
   - date: 2025-02-21

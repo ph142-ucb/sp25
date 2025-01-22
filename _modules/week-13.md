@@ -7,7 +7,7 @@ days:
   - date: 2025-04-16
     events:
       "**Lecture 31**{: .label .label-lec} Comparing Two Proportions ":
-      "**Lab 10**{: .label .label-lab} Proportions and Inference for Regression (Due Apr. 22nd)":
+      "**Lab 10**{: .label .label-lab} Proportions and Inference for Regression (Due Apr. 19th)":
       "**Homework 10**{: .label .label-hw} on Datahub":
   - date: 2025-04-18
     events:

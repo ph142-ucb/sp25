@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 28**{: .label .label-lec} Non Parametrics ":
         "Ch. 27"
-      "**Lab 9**{: .label .label-lab} Paired and Two-Sample T-Tests (Due Apr. 15th)":
+      "**Lab 9**{: .label .label-lab} Paired and Two-Sample T-Tests (Due Apr. 12th)":
       "**Homework 9**{: .label .label-hw} on Datahub ":
   - date: 2025-04-11
     events:

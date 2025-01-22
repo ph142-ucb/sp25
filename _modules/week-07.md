@@ -9,12 +9,12 @@ days:
     events:
       "**Lecture 17**{: .label .label-lec} Sampling and the Central Limit Theorem": 
         "Ch. 13"
-      "**Lab 6**{: .label .label-lab} Normal, Binomial, and Poisson Distribution (Due Mar. 11th)":
+      "**Lab 6**{: .label .label-lab} Normal, Binomial, and Poisson Distribution (Due Mar. 8th)":
       "**Homework 6**{: .label .label-hw} on Datahub":
 
   - date: 2025-03-07
     events:
       "**Lecture 18**{: .label .label-lec} Sampling and the CLT cont.": 
         "Ch. 13"
-      "**Quiz 5**{: .label .label-quiz} on Gradescope (Due Mar. 8th)":   
+      "**Quiz 5**{: .label .label-quiz} on Gradescope (Due Mar. 8th, 12pm noon)":   
 ---

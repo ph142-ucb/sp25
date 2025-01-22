@@ -10,7 +10,7 @@ days:
     events:
       "**Lecture 34**{: .label .label-lec} Chi-Squared ":
         "Ch. 21"
-      "**Lab 11**{: .label .label-lab} Chi-Square Test for Independence (Due Apr. 29th)":
+      "**Lab 11**{: .label .label-lab} Chi-Square Test for Independence (Due Apr. 26th)":
       "**Homework 11**{: .label .label-hw} on Datahub":
   - date: 2025-04-25
     events:

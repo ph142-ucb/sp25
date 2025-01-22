@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 4**{: .label .label-lec} Describing Data with Numbers":
         "Ch. 2"
-      "**Lab 2**{: .label .label-lab} Visualization of Global Cesarean Delivery Rates (Due Feb. 4th)":
+      "**Lab 2**{: .label .label-lab} Visualization of Global Cesarean Delivery Rates (Due Feb. 1st)":
       "**Homework 2**{: .label .label-hw} on Datahub":
 
   - date: 2025-01-31
