@@ -27,6 +27,10 @@ description: Resources for students
 | [Outliers, Leverage, and Influence in Linear Regression](https://www.youtube.com/watch?v=_rHvQfwCQlg)                                                             |
 | [Probability Rules](https://www.youtube.com/watch?v=phYMnGGT0Ro)                                                                                                  |
 
+| Course Resources                                                                                                                               | 
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Lab Resources Folder](https://drive.google.com/drive/folders/1ewJHqx2j7-0TonrTPDWpgD0z4-J7CZE5?usp=sharing) |
+
 | Data Project                                      |
 |---------------------------------------------------|
 | [Finding Valid Datasets](https://www.youtube.com/watch?v=-W8aECcQ2dg)
