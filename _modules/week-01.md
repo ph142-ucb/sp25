@@ -14,7 +14,7 @@ days:
       
   - date: 2025-01-24
     events:
-      "**Lecture 2**{: .label .label-lec} [Working with Data in R and Rstudio](https://ph142-ucb.github.io/sp25/src/lec/L02_working-with-data.pdf) [Recording](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-2)":
+      "**Lecture 2**{: .label .label-lec} [Working with Data in R and Rstudio](https://ph142-ucb.github.io/sp25/src/lec/L02_working-with-data.pdf) [(Recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-2)":
       "**Quiz 1**{: .label .label-quiz} on Gradescope (opens Jan 24th, 9AM; due Jan. 25th, 12PM noon PST)":
       
 ---
