@@ -3,7 +3,7 @@ title: Week 2
 days:
   - date: 2025-01-27
     events:
-      "**Lecture 3**{: .label .label-lec} [Visualizing Data in R and Rstudio](https://ph142-ucb.github.io/sp25/src/lec/l03-visualizing-data.Rmd)":
+      "**Lecture 3**{: .label .label-lec} [Visualizing Data in R and Rstudio](https://ph142-ucb.github.io/sp25/src/lec/l03-visualizing-data.rmd)":
 
   - date: 2025-01-29
     events:
