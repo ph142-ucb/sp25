@@ -7,7 +7,7 @@ days:
 
   - date: 2025-01-29
     events:
-      "**Lecture 4**{: .label .label-lec} [Describing Data with Numbers](https://ph142-ucb.github.io/sp25/src/lec/l04-describing-data-with-numbers.pdf)":
+      "**Lecture 4**{: .label .label-lec} [Describing Data with Numbers](https://ph142-ucb.github.io/sp25/src/lec/l04-describing-data-with-numbers.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-4)":
         "Ch. 2"
       "**Lab 2**{: .label .label-lab} [Visualization of Global Cesarean Delivery Rates](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) (Due Feb. 1st)":
       "**Homework 2**{: .label .label-hw} on Datahub":
