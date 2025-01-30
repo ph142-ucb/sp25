@@ -14,7 +14,7 @@ days:
 
   - date: 2025-01-31
     events:
-      "**Lecture 5**{: .label .label-lec} Exploring Relationships Between Two Variables": 
+      "**Lecture 5**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/sp25/src/lec/l05-relationships-between-two-variables.pdf)": 
         "Ch. 3"
       "**Quiz 2**{: .label .label-quiz} on Gradescope (Due Feb. 1st)":
 ---
