@@ -10,34 +10,41 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
-[(View PDF of Group Confirmation Assignment)](https://ph142-ucb.github.io/sp24/src/dp/Group-confirmation-practice-submission.pdf)
-<a href="https://ph142-ucb.github.io/sp24/src/dp/Group-confirmation-practice-submission.Rmd">(Download the .Rmd file)</a>
+**Group Confirmation Assignment:**
 
-[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp24/src/dp/part1_instructions.pdf)  
+[(View PDF of Group Confirmation Assignment)](https://ph142-ucb.github.io/sp25/src/dp/Group-confirmation-practice-submission.pdf)
+<a href="https://ph142-ucb.github.io/sp25/src/dp/Group-confirmation-practice-submission.Rmd">(Download the .Rmd file)</a>
 
-- Note: Make sure to check in with your assigned GSI before the due date!
+**Part I:**
+
+[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp25/src/dp/part1_instructions.pdf)  
+
+- Note: Make sure to check in with your assigned GSI before each due date!
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1rV8MwHR8yLP1fM780hXVD1VS80QKJlBswcKhhmUh6SE/edit?usp=sharing) to ensure you are using a valid dataset!
 - You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/1_9VLmLDYjhxRNm4tJaLvnecZ61H8Am9U5TVKglhvdAs/edit).
 
+<!--
+**Part II:**
 
 [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp23.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/12q6hWIeihG5R5G2Kvl7nCVb3VwdQMsdKumjyHptkR4s/edit?usp=sharing).
 
+**Part III:**
 
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp24/src/dp/part3-instructions_sp23.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/1bbfUH-jNchqAgElcLBRzL5lMizuU0RZPJfP4yUQbhXY/edit?usp=sharing).
-
+-->
 
 <hr>
 
 **Due dates:** 
 
-- **Confirmation Checklist is due February 16th at 11:59 pm PST**
+- **Confirmation Checklist is due February 14th at 11:59 PM PST**
 
 - **Part I is due on February 27th at 10:00 PM PST**
-- **Part II is due on April 1st at 11:59 PM PST**
+- **Part II is due on April 1st at 10:00 PM PST**
 - **Part III is due on May 6th at 12:00 PM PST (noon)**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**

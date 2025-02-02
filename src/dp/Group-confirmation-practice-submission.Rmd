@@ -16,12 +16,13 @@ The purpose of this assignment is:
 
 This assignment should be submitted on gradescope (one per group) with all group members added to the submission.
 
-Q1:  Who are your group members?  List them here:
+Q1:  Who are your group members?  List their full names here:
 
+_answer here_
 
 Q2:  Who is your supporting GSI for the data project?
 
-<<answer here>>
+_answer here_
 
 Some suggestions for discussion in your group:
 
@@ -29,7 +30,7 @@ Who will be responsible for submitting the work on gradescope?
 
 When and where/how will you meet to work on the project?
 
-How does your group want to split up responsibility/tasks?  Will you all work together at the same time, or will some group members have primary responsibility for a given question? 
+How does your group want to split up responsibility/tasks? Will you all work together at the same time, or will some group members have primary responsibility for a given question? 
 
 How will you share files?  
 
@@ -37,6 +38,9 @@ What kind of data do you want to work on?
 
 Does anyone have data or know of a dataset that is of interest to the group?
 
-Once you have confirmed your group membership, please "knit" this document and submit it on gradescope for course participation credit.  Only one person should submit the assignment - they should enter the submission and then add the other group members to the submission.  
+When will your member(s) meet with your supporting GSI before each part?
+
+
+Once you have confirmed your group membership, please "knit" this document and submit it on gradescope for course participation credit.  Only one person should submit the assignment - **this student should enter the submission and then add the other group members to the submission.**  
 
 
