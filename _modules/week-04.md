@@ -15,6 +15,6 @@ days:
     events:
       "**Lecture 11**{: .label .label-lec} Introduction to Probability ": 
         "Ch. 9"
-      "**Data Project**{: .label .label-proj} [Group Confirmation Checklist, on Gradescope](https://ph142-ucb.github.io/sp25/data-proj/) (Due 11:59 PM PST)":
+      "**Data Project**{: .label .label-proj} [Group Confirmation Checklist](https://ph142-ucb.github.io/sp25/data-proj/), [on Gradescope](https://www.gradescope.com/courses/931464/assignments/5717534) (Due 11:59 PM PST)":
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part I ":
 ---
