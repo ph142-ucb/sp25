@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2025-02-03
     events:
-      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/sp25/src/lec/l06-intro-to-regression.pdf)":
+      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/sp25/src/lec/l06-intro-to-regression.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-6)":
         "Ch. 4"
       "**Data Project**{: .label .label-proj} [Group information shared](https://ph142-ucb.github.io/sp25/data-proj/) with students via email":
 
