@@ -5,6 +5,7 @@ days:
     events:
       "**Lecture 6**{: .label .label-lec} Introduction to Regression":
         "Ch. 4"
+      "**Data Project**{: .label .label-proj} [Group information shared](https://ph142-ucb.github.io/sp25/data-proj/) with students via email":
 
   - date: 2025-02-05
     events:
