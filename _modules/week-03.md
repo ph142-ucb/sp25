@@ -16,7 +16,7 @@ days:
 
   - date: 2025-02-07
     events:
-      "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/sp25/src/lec/l08-samples.pdf)": 
+      "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/sp25/src/lec/l08-samples.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-8)": 
         "Ch. 7"
       "**Quiz 3**{: .label .label-quiz} on Gradescope (due Feb. 8th, 12PM noon)":
 ---
