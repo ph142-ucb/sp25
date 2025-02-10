@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2025-02-10
     events:
-      "**Lecture 9**{: .label .label-lec} Designing Experiments":
+      "**Lecture 9**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/sp25/src/lec/l09-study-design_sp25.pdf)":
         "Ch. 8"
 
   - date: 2025-02-12
