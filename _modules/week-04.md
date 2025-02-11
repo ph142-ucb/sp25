@@ -9,7 +9,7 @@ days:
   - date: 2025-02-12
     events:
       "**Lecture 10**{: .label .label-lec} Part 1 Summary":
-      "**Lab**{: .label .label-lab} Midterm 1 Review Session":
+      "**Lab**{: .label .label-lab} [Midterm 1 Review Session](https://docs.google.com/presentation/d/1VlnwbftxTqG5N-nE9Byi-ejrnGjNdPUtx-rxugQhvfs/edit#slide=id.p)":
 
   - date: 2025-02-14
     events:
