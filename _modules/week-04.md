@@ -8,7 +8,7 @@ days:
 
   - date: 2025-02-12
     events:
-      "**Lecture 10**{: .label .label-lec} [Part 1 Summary](https://ph142-ucb.github.io/sp25/src/lec/midterm-review_sp25.pdf)":
+      "**Lecture 10**{: .label .label-lec} [Part 1 Summary](https://ph142-ucb.github.io/sp25/src/lec/midterm-review_sp25.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-10)":
       "**Lab**{: .label .label-lab} [Midterm 1 Review Session](https://docs.google.com/presentation/d/1VlnwbftxTqG5N-nE9Byi-ejrnGjNdPUtx-rxugQhvfs/edit#slide=id.p)":
 
   - date: 2025-02-14
