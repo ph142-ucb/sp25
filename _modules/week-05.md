@@ -14,6 +14,6 @@ days:
 
   - date: 2025-02-21
     events:
-      "**Lecture 12**{: .label .label-lec} [Probability part II](https://ph142-ucb.github.io/sp25/src/lec/l12-more-probability.pdf)":
+      "**Lecture 12**{: .label .label-lec} [Probability part II](https://ph142-ucb.github.io/sp25/src/lec/l12-more-probability.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-12-2)":
         "Ch. 10"
 ---
