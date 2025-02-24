@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2025-02-24
     events:
-      "**Lecture 13**{: .label .label-lec} [Even more probability](https://ph142-ucb.github.io/sp25/src/lec/l13-even-more-probability.pdf) ":
+      "**Lecture 13**{: .label .label-lec} [Even more probability](https://ph142-ucb.github.io/sp25/src/lec/l13-even-more-probability.pdf) [(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-13)":
         "Ch. 10 & 11"
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
       "**Participation**{: .label .label-parti} Mid-semester Evaluation released":
