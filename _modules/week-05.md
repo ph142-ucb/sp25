@@ -9,8 +9,8 @@ days:
     events:
       "**Exam**{: .label .label-exam} **Midterm 1**":
       "**No Lecture**{: .label .label-purple} ":
-      "**Lab 4**{: .label .label-lab} Screening and Precision Public Health (Due Feb 22nd)":
-      "**Homework 4**{: .label .label-hw} on Datahub":
+      "**Lab 4**{: .label .label-lab} [Screening and Precision Public Health](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) (Due Feb 22nd)":
+      "**Homework 4**{: .label .label-hw} [on Datahub for practice](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master)":
 
   - date: 2025-02-21
     events:
