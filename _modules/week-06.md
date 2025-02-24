@@ -6,7 +6,7 @@ days:
       "**Lecture 13**{: .label .label-lec} [Even more probability](https://ph142-ucb.github.io/sp25/src/lec/l13-even-more-probability.pdf) [(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-13)":
         "Ch. 10 & 11"
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
-      "**Participation**{: .label .label-parti} Mid-semester Evaluation released":
+      "**Participation**{: .label .label-parti} [Mid-semester Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf9JX2g7D_iTEqsUJwh1_IyM8IfYyBQLFuSQ0PK4d-pwN3iyg/viewform?usp=sharing) released":
 
   - date: 2025-02-26
     events:
