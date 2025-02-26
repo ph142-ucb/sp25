@@ -10,7 +10,7 @@ days:
 
   - date: 2025-02-26
     events:
-      "**Lecture 14**{: .label .label-lec} The normal distribution": 
+      "**Lecture 14**{: .label .label-lec} [The normal distribution](https://ph142-ucb.github.io/sp25/src/lec/l14-normal-distribution.pdf)": 
         "Ch. 12"
       "**Lab 5**{: .label .label-lab} [Independence, Screening, and Normal Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) (Due Mar. 1st at 12pm with 2hr. grace period)":
       "**Homework 5**{: .label .label-hw} on Datahub ":
