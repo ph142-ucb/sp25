@@ -17,7 +17,7 @@ days:
 
   - date: 2025-02-28
     events:
-      "**Lecture 15**{: .label .label-lec} [The Binomial Distribution](https://ph142-ucb.github.io/sp25/src/lec/l15-binomial.pdf)  ":
+      "**Lecture 15**{: .label .label-lec} [The Binomial Distribution](https://ph142-ucb.github.io/sp25/src/lec/l15-binomial.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-15)  ":
         "Ch. 12"
       "**Quiz 4**{: .label .label-quiz} on Gradescope (Due Mar. 1st, 12pm noon PST)":
 ---
