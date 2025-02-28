@@ -27,7 +27,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp25.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 2 of the Data Project [here:](https://docs.google.com/document/d/1FyXCKrZ127UJnQryU6VwrAc3cvCCAXIh7l4BCFGJcLs/edit?usp=sharing).
+- You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/1FyXCKrZ127UJnQryU6VwrAc3cvCCAXIh7l4BCFGJcLs/edit?usp=sharing).
 
 <!--
 **Part III:**
@@ -94,5 +94,5 @@ GSI's will do their best to respond to all emails/posts within 24 hours.
 
 ## Data Skills Demonstration Project Part II
 
-<iframe src="https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp25.pdf" width="100%" height="800"></iframe> 
+<iframe src="https://ph142-ucb.github.io/sp25/src/dp/part2-instructions_sp25.pdf" width="100%" height="800"></iframe> 
 
