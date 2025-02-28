@@ -5,7 +5,7 @@ days:
     events:
       "**Lecture 24**{: .label .label-lec} Inference about a population mean ":
         "Ch. 17"
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 11:59 PM PST)":
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 
   - date: 2025-04-02
     events:

@@ -23,13 +23,13 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1SHysgRhif8rXpsV-U62Urz91Tf5ozoyVCXgyg3hq484/edit?usp=sharing) to ensure you are using a valid dataset!
 - You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/16dnp8BAYZoogcpz3Dd5cyTjoIO8LJLsKhkP6UQl_v6Y/edit?usp=sharing).
 
-<!--
 **Part II:**
 
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp23.pdf)  
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp25.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/12q6hWIeihG5R5G2Kvl7nCVb3VwdQMsdKumjyHptkR4s/edit?usp=sharing).
+- You can find the rubric for Part 2 of the Data Project [here:](https://docs.google.com/document/d/1FyXCKrZ127UJnQryU6VwrAc3cvCCAXIh7l4BCFGJcLs/edit?usp=sharing).
 
+<!--
 **Part III:**
 
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp24/src/dp/part3-instructions_sp23.pdf)  
@@ -86,13 +86,13 @@ Because we are asking you to provide some visualizations and use the same datase
 There are a few ways you can contact your GSI:
 
 1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Paula Marquez)
-2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/sp24/calendar/)
+2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/sp25/calendar/)
 3. Email <142gsi@berkeley.edu> with the subject line "[Data Project] GSI ________ - ..."
 
 GSI's will do their best to respond to all emails/posts within 24 hours.
 
-<!---
+
 ## Data Skills Demonstration Project Part II
 
-<iframe src="https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp23.pdf" width="100%" height="800"></iframe> 
--->
+<iframe src="https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp25.pdf" width="100%" height="800"></iframe> 
+
