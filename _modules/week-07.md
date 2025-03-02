@@ -14,7 +14,7 @@ days:
 
   - date: 2025-03-07
     events:
-      "**Lecture 18**{: .label .label-lec} Sampling and the CLT - recording only - no live lecture": 
+      "**Lecture 18**{: .label .label-lec} [Sampling and the CLT](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-18-clt) - recording only - no live lecture": 
         "Ch. 13"
       "**Quiz 5**{: .label .label-quiz} on Gradescope (Due Mar. 8th, 12pm noon)":   
 ---
