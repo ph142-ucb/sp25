@@ -20,7 +20,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Lab </b><br/> Select 'Completed' or 'Not Completed' for each lab or 'Unknown' for future labs. <b>One 'Not Completed' lab will automatically be dropped.</b><br/><br/>")),
+           HTML("<b>Lab </b><br/> Select 'Completed' or 'Not Completed' for each lab or 'Unknown' for future labs. </br><b>One 'Not Completed' lab will automatically be dropped.</b><br/><br/>")),
     column(2,
            radioButtons("lab01", "Lab 01", choices = c("Completed", "Not Completed", "Unknown"), selected = "Unknown")),
     column(2,
@@ -50,7 +50,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Quizzes </b><br/> Enter a percentage grade for each quiz (E.g. Enter 75 if you got 75%). <b>The lowest quiz grade will be automatically dropped.</b><br><br>")),
+           HTML("<b>Quizzes </b><br/> Enter a percentage grade for each quiz (E.g. Enter 75 if you got 75%). </br><b>The lowest quiz grade will be automatically dropped.</b><br><br>")),
     column(2,
            numericInput("q1", "Quiz 1", value = NA, min = 0, max = 100, step = 1)),
     column(2,
@@ -73,17 +73,15 @@ ui <- fluidPage(
     column(2,
       numericInput("q10", "Quiz 10", value = NA, min = 0, max = 100, step = 1))),
   fluidRow(
-    column(2,
-           numericInput("q11", "Quiz 11 (EC)", value = NA, min = 0, max = 100, step = 1))),
-  fluidRow(
     column(4,
            div(textOutput("quiz_avg_out"), style = "color: blue;"))),
 
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Tests (Midterm 1: 15%, Midterm 2: 15%, Final: 20%)</b><br/>Enter a percentage grade for each test, including points received as extra credit.
-                Guess grades for tests not yet completed to see how it will affect your overall grade. <br><br>")),
+           HTML("<b>Tests </b><br/>(Midterm 1: 15%, Midterm 2: 15%, Final: 20%)
+           <br/>Enter the percentage grade received for each test, including points received as extra credit.
+           </br>Guess grades for tests not yet completed to see how it will affect your overall grade. <br><br>")),
     column(2,
            numericInput("m1", "Midterm 1", value = 50, min = 0, max = 100)),
     column(2,
@@ -99,8 +97,6 @@ ui <- fluidPage(
            numericInput(("opp_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 40)),
     column(3,
            numericInput(("group"), "Data Skills Demonstration Project", value = 50, min = 0, max = 100)),
-    column(3,
-           numericInput(("ec1"), "EC: Stats is Everywhere/Compelling Study", value = 0, min = 0, max = 100)),
 	),
   hr(),
   fluidRow(
@@ -219,8 +215,7 @@ server <- function(input, output) {
       (input$m1 * mt1_weight) + 
       (input$m2 * mt2_weight) + 
       (input$final * final_weight) +
-      (input$group * project_weight) + 
-      (input$ec1 * extra_credit_weight)
+      (input$group * project_weight) 
 
     return(weight_avg)
   })
@@ -231,22 +226,23 @@ server <- function(input, output) {
       paste0("Grade Estimate: ", original(), "%")
     })
   
-    output$letter_grade <- renderText({
-      paste0("Letter grade: ", case_when(original() >= 98.5 ~ "A+",
-                                         original() < 98.5 & original() >= 94.0 ~ "A",
-                                         original() < 94.0 & original() >= 89.0 ~ "A-",
-                                         original() < 89.0 & original() >= 85.0 ~ "B+",
-                                         original() < 85.0 & original() >= 81.0 ~ "B",
-                                         original() < 81.0 & original() >= 75.5 ~ "B-",
-                                         original() < 75.5 & original() >= 70.5 ~ "C+",
-                                         original() < 70.5 & original() >= 60.5 ~ "C",
-                                         original() < 60.5 & original() >= 51 ~ "C",
-                                         original() < 51.0 ~ "D")
-      )
-  })
+  #   output$letter_grade <- renderText({
+  #     paste0("Letter grade: ", case_when(original() >= 98.5 ~ "A+",
+  #                                        original() < 98.5 & original() >= 94.0 ~ "A",
+  #                                        original() < 94.0 & original() >= 89.0 ~ "A-",
+  #                                        original() < 89.0 & original() >= 85.0 ~ "B+",
+  #                                        original() < 85.0 & original() >= 81.0 ~ "B",
+  #                                        original() < 81.0 & original() >= 75.5 ~ "B-",
+  #                                        original() < 75.5 & original() >= 70.5 ~ "C+",
+  #                                        original() < 70.5 & original() >= 60.5 ~ "C",
+  #                                        original() < 60.5 & original() >= 51 ~ "C",
+  #                                        original() < 51.0 ~ "D")
+  #     )
+  # })
 
 
 }
+
 
 # Run the application 
 shinyApp(ui = ui, server = server)
