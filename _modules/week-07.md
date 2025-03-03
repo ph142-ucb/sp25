@@ -3,7 +3,7 @@ title: Week 7
 days:
   - date: 2025-03-03
     events:
-      "**Lecture 16**{: .label .label-lec} [The Binomial part II](https://ph142-ucb.github.io/sp25/src/lec/l16-binomial.pdf)":
+      "**Lecture 16**{: .label .label-lec} [The Binomial part II](https://ph142-ucb.github.io/sp25/src/lec/l16-binomial.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/lecture-16)":
 
   - date: 2025-03-05
     events:
