@@ -92,7 +92,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Miscellaneous</b><br/> Enter an integer for the participation opportunities missed and a percentage grade (0-100) for the data project and extra credit assignment.<br/><br>")),
+           HTML("<b>Miscellaneous</b><br/> Enter an integer for the participation opportunities missed and a percentage grade (0-100) for the data project.<br/><br>")),
     column(3,
            numericInput(("opp_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 40)),
     column(3,
