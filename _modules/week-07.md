@@ -7,7 +7,7 @@ days:
 
   - date: 2025-03-05
     events:
-      "**Lecture 17**{: .label .label-lec} The Poisson distribution": 
+      "**Lecture 17**{: .label .label-lec} [The Poisson distribution](https://ph142-ucb.github.io/sp25/src/lec/l17-poisson.pdf)": 
         "Ch. 13"
       "**Lab 6**{: .label .label-lab} [Normal, Binomial, and Poisson Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) (Due Mar. 8th)":
       "**Homework 6**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master)":
