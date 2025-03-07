@@ -5,6 +5,7 @@ days:
     events:
       "**Lecture 19**{: .label .label-lec} Confidence Intervals":
         "Ch. 13"
+      "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":      
 
   - date: 2025-03-12
     events:

@@ -10,7 +10,6 @@ days:
     events:
       "**Lecture 23**{: .label .label-lec} Part 2 recap ":
       "**Lab**{: .label .label-lab} Midterm 2 Review Session":
-      "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":
 
   - date: 2025-03-21
     events:
