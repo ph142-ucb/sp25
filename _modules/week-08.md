@@ -3,7 +3,7 @@ title: Week 8
 days:
   - date: 2025-03-10
     events:
-      "**Lecture 19**{: .label .label-lec} [Confidence Intervals](https://ph142-ucb.github.io/sp25/src/lec/l19-confidence.pdf)":
+      "**Lecture 19**{: .label .label-lec} [Confidence Intervals](https://ph142-ucb.github.io/sp25/src/lec/l19-confidence.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/l19)":
         "Ch. 13"
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":      
 
