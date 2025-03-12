@@ -9,7 +9,7 @@ days:
 
   - date: 2025-03-12
     events:
-      "**Lecture 20**{: .label .label-lec} [Hypothesis Testing](https://ph142-ucb.github.io/sp25/src/lec/l20-hypothesis.pdf)":
+      "**Lecture 20**{: .label .label-lec} [Hypothesis Testing](https://ph142-ucb.github.io/sp25/src/lec/l20-hypothesis.pdf)[(recording))(https://bcourses.berkeley.edu/courses/1540322/pages/lecture-20)":
         "Ch. 14"
       "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Mar. 15th)":
       "**Homework 7**{: .label .label-hw} on datahub":
