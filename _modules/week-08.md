@@ -16,7 +16,7 @@ days:
 
   - date: 2025-03-14
     events:
-      "**Lecture 21**{: .label .label-lec} Power and Sample Size": 
+      "**Lecture 21**{: .label .label-lec} [Power and Sample Size](https://ph142-ucb.github.io/sp25/src/l21-power.pdf)": 
         "Ch. 15"
       "**Quiz 6**{: .label .label-quiz} on Gradescope (Due Mar. 15th)":
 ---
