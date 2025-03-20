@@ -3,7 +3,7 @@ title: Week 9
 days:
   - date: 2025-03-17
     events:
-      "**Lecture 22**{: .label .label-lec} [From Z Testing to T Testing](https://ph142-ucb.github.io/sp25/src/lec/l22-ztot.pdf) ":
+      "**Lecture 22**{: .label .label-lec} [From Z Testing to T Testing](https://ph142-ucb.github.io/sp25/src/lec/l22-ztot.pdf) [(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/l22-ztot)":
         "Ch. 15 & 16"
 
   - date: 2025-03-19
