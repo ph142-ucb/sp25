@@ -3,13 +3,13 @@ title: Week 11
 days:
   - date: 2025-03-31
     events:
-      "**Lecture 24**{: .label .label-lec} Inference about a population mean ":
+      "**Lecture 24**{: .label .label-lec} [Test for two means](https://ph142-ucb.github.io/sp25/src/lec/flavors-of-t.pdf) ":
         "Ch. 17"
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ": 
       
   - date: 2025-04-02
     events:
-      "**Lecture 25**{: .label .label-lec} Test for two means ":
+      "**Lecture 25**{: .label .label-lec} Paired t tests ":
         "Ch. 18"
       "**Lab 8**{: .label .label-lab} T-Tests (Due Apr. 5th)":
       "**Homework 8**{: .label .label-hw} on Datahub ":
