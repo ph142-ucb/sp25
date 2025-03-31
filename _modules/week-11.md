@@ -3,7 +3,7 @@ title: Week 11
 days:
   - date: 2025-03-31
     events:
-      "**Lecture 24**{: .label .label-lec} [Test for two means](https://ph142-ucb.github.io/sp25/src/lec/flavors-of-t.pdf) ":
+      "**Lecture 24**{: .label .label-lec} [Test for two means](https://ph142-ucb.github.io/sp25/src/lec/flavors-of-t.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/two-sample-t) ":
         "Ch. 17"
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ": 
       
