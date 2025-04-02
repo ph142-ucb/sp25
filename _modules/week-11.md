@@ -11,8 +11,8 @@ days:
     events:
       "**Lecture 25**{: .label .label-lec} Paired t tests ":
         "Ch. 18"
-      "**Lab 8**{: .label .label-lab} T-Tests (Due Apr. 5th)":
-      "**Homework 8**{: .label .label-hw} on Datahub ":
+      "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) (Due Apr. 5th)":
+      "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) ":
 
   - date: 2025-04-04
     events:
