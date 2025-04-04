@@ -16,7 +16,7 @@ days:
 
   - date: 2025-04-04
     events:
-      "**Lecture 26**{: .label .label-lec} ANOVA ": 
+      "**Lecture 26**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp25/src/lec/anova.pdf)": 
         "Ch. 24"
       "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Apr. 5th) ":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
