@@ -62,8 +62,6 @@ description: Resources for students
 |                | [Fa21 Midterm 2](https://ph142-ucb.github.io/sp25/src/resources/mt2/mt2_fa21.pdf) | [Fa21 Midterm 2 Solutions](https://ph142-ucb.github.io/sp25/src/resources/mt2/mt2_fa21_SOLUTIONS.pdf) |
 |                | [Fa22 Midterm 2](https://ph142-ucb.github.io/sp25/src/resources/mt2/mt2_fa22.pdf) | [Fa22 Midterm 2 Solutions](https://ph142-ucb.github.io/sp25/src/resources/mt2/mt2_fa22_SOLUTIONS.pdf) |
 |----------------|-------------------------------|
-
-<!--
 --------------------------------|
 | Final          | [Fa19 Final](https://ph142-ucb.github.io/sp25/src/resources/final/final_fa19.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/sp25/src/resources/final/final_fa19_SOLUTIONS.pdf) |
 |                | [Fa20 Final](https://ph142-ucb.github.io/sp25/src/resources/final/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/sp25/src/resources/final/final_fa20_SOLUTIONS.pdf) |
@@ -71,4 +69,4 @@ description: Resources for students
 |                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/sp25/src/resources/final/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/sp25/src/resources/final/final_sp21_timed_SOLUTIONS.pdf) |  
 |                | [Fa21 Final](https://ph142-ucb.github.io/sp25/src/resources/final/final_fa21.pdf) | [Fa21 Final Solutions](https://ph142-ucb.github.io/sp25/src/resources/final/final_fa21_SOLUTIONS.pdf) |
 |                | [Fa23 Final](https://ph142-ucb.github.io/sp25/src/resources/final/Final_Fa2023.pdf) | [Fa23 Final Solutions](https://ph142-ucb.github.io/sp25/src/resources/final/Final_Fa2023_solutions.pdf) |
--->
+
