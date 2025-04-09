@@ -7,7 +7,7 @@ days:
         "Ch. 24"
   - date: 2025-04-09
     events:
-      "**Lecture 28**{: .label .label-lec} [Inference for Regression](https://ph142-ucb.github.io/sp25/src/lec/regression-inference.pdf)":
+      "**Lecture 28**{: .label .label-lec} [Inference for Regression](https://ph142-ucb.github.io/sp25/src/lec/regression-inference.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/inference-for-linear-regression)":
         "Ch. 27"
       "**Lab 9**{: .label .label-lab} [Paired and Two-Sample T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) (Due Apr. 12th)":
       "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) ":
