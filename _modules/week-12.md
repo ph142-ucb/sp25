@@ -13,7 +13,7 @@ days:
       "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) ":
   - date: 2025-04-11
     events:
-      "**Lecture 29**{: .label .label-lec} [Review of Continuous outcomes tests and MT2 material](https://ph142-ucb.github.io/sp25/src/lec/l29.5-review.pdf)": 
+      "**Lecture 29**{: .label .label-lec} [Review of Continuous outcomes tests and MT2 material](https://ph142-ucb.github.io/sp25/src/lec/l29.5-review.pdf)[(review)](https://bcourses.berkeley.edu/courses/1540322/pages/reviewmt2-continuous-tests)": 
         "Ch. 18 & 23"
       "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/704333) (Due Apr. 12th)":
 ---
