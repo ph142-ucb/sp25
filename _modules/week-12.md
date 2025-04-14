@@ -3,7 +3,7 @@ title: Week 12
 days:
   - date: 2025-04-07
     events:
-      "**Lecture 27**{: .label .label-lec} [Non-parametrics](https://ph142-ucb.github.io/sp25/src/lec/non-para.pdf) [(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/non-para)":
+      "**Lecture 27**{: .label .label-lec} [Non-parametrics](https://ph142-ucb.github.io/sp25/src/lec/nonpara_sp25.pdf) [(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/non-para)":
         "Ch. 24"
   - date: 2025-04-09
     events:
