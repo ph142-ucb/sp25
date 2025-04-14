@@ -71,7 +71,9 @@ ui <- fluidPage(
   	column(2,
 			numericInput("q9", "Quiz 9", value = NA, min = 0, max = 100, step = 1)),
     column(2,
-      numericInput("q10", "Quiz 10", value = NA, min = 0, max = 100, step = 1))),
+      numericInput("q10", "Quiz 10", value = NA, min = 0, max = 100, step = 1)),
+    column(2,
+         numericInput("q11", "Quiz 11", value = NA, min = 0, max = 100, step = 1))),
   fluidRow(
     column(4,
            div(textOutput("quiz_avg_out"), style = "color: blue;"))),

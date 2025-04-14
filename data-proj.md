@@ -29,13 +29,11 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/1FyXCKrZ127UJnQryU6VwrAc3cvCCAXIh7l4BCFGJcLs/edit?usp=sharing).
 
-<!--
 **Part III:**
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp24/src/dp/part3-instructions_sp23.pdf)  
+[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp24/src/dp/part3-instructions_sp25.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/1bbfUH-jNchqAgElcLBRzL5lMizuU0RZPJfP4yUQbhXY/edit?usp=sharing).
--->
+- You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/17O3z3k9--9HtGyYR9E0QrIjATUw39HXnPvDWmidANbQ/edit?usp=sharing).
 
 <hr>
 
