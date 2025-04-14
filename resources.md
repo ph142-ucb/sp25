@@ -4,6 +4,13 @@ title: Resources
 nav_order: 8
 description: Resources for students
 ---
+# Extra Credit
+
+- [Point Recovery Write-Up: In-Lab](https://edstem.org/us/courses/70181/discussion/6535919)
+- [Instructions Document](https://ph142-ucb.github.io/sp25/src/ec/ec-in-person-point-recovery_sp25.pdf)
+
+<hr>
+
 # Resources
 
 - [PH 142 Course Overview Interactive Presentation](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)
