@@ -3,12 +3,12 @@ title: Week 14
 days:
   - date: 2025-04-21
     events:
-      "**Lecture 33**{: .label .label-lec} Goodness of Fit ":
+      "**Lecture 33**{: .label .label-lec} [Goodness of Fit](https://ph142-ucb.github.io/sp25/src/lec/goodnessoffit.pdf) ":
         "Ch. 20"
       "**Participation**{: .label .label-parti} Course Evaluation extra credit opens, on Gradescope ":
   - date: 2025-04-23
     events:
-      "**Lecture 34**{: .label .label-lec} Chi-Squared ":
+      "**Lecture 34**{: .label .label-lec} [Chi-Squared](https://ph142-ucb.github.io/sp25/src/lec/chisquared.pdf) ":
         "Ch. 21"
       "**Lab 11**{: .label .label-lab} Chi-Square Test for Independence (Due Apr. 26th)":
       "**Homework 11**{: .label .label-hw} on Datahub":
