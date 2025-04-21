@@ -5,13 +5,13 @@ days:
     events:
       "**Lecture 33**{: .label .label-lec} Goodness of Fit ":
         "Ch. 20"
-      "**Participation**{: .label .label-parti} Course Evaluation extra credit opens, on Gradescope ":
+      "**Participation**{: .label .label-parti} Course Evaluation extra credit opens, [on Gradescope](https://www.gradescope.com/courses/931464/assignments/6115794) ":
   - date: 2025-04-23
     events:
       "**Lecture 34**{: .label .label-lec} Chi-Squared ":
         "Ch. 21"
-      "**Lab 11**{: .label .label-lab} Chi-Square Test for Independence (Due Apr. 26th)":
-      "**Homework 11**{: .label .label-hw} on Datahub":
+      "**Lab 11**{: .label .label-lab} [Chi-Square Test for Independence](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master) (optional, due Apr. 26th)":
+      "**Homework 11**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp25&urlpath=rstudio%2F&branch=master)":
   - date: 2025-04-25
     events:
       "**Lecture 35**{: .label .label-lec} Permutations ": 

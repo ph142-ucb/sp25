@@ -20,7 +20,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Lab </b><br/> Select 'Completed' or 'Not Completed' for each lab or 'Unknown' for future labs. </br><b>One 'Not Completed' lab will automatically be dropped.</b><br/><br/>")),
+           HTML("<b>Lab </b><br/> Select 'Completed' or 'Not Completed' for each lab or 'Unknown' for future labs. </br> Lab 11 can optionally be completed in replacement of your lowest lab score (for a total of 9 graded lab submissions).<b> <br/> One 'Not Completed' lab will automatically be dropped. </b> </br><br/><br/>")),
     column(2,
            radioButtons("lab01", "Lab 01", choices = c("Completed", "Not Completed", "Unknown"), selected = "Unknown")),
     column(2,
@@ -43,7 +43,7 @@ ui <- fluidPage(
     column(2,
            radioButtons("lab10", "Lab 10", choices = c("Completed", "Not Completed", "Unknown"), selected = "Unknown")),
     column(2,
-           radioButtons("lab11", "Lab 11", choices = c("Completed", "Not Completed", "Unknown"), selected = "Unknown"))),
+           radioButtons("lab11", "Lab 11 (optional)", choices = c("Completed", "Not Completed", "Unknown"), selected = "Unknown"))),
   fluidRow(
     column(4,
            div(textOutput("lab_avg_out"), style = "color: blue;"))),
@@ -71,9 +71,7 @@ ui <- fluidPage(
   	column(2,
 			numericInput("q9", "Quiz 9", value = NA, min = 0, max = 100, step = 1)),
     column(2,
-      numericInput("q10", "Quiz 10", value = NA, min = 0, max = 100, step = 1)),
-    column(2,
-         numericInput("q11", "Quiz 11", value = NA, min = 0, max = 100, step = 1))),
+      numericInput("q10", "Quiz 10", value = NA, min = 0, max = 100, step = 1))),
   fluidRow(
     column(4,
            div(textOutput("quiz_avg_out"), style = "color: blue;"))),
@@ -105,8 +103,8 @@ ui <- fluidPage(
     column(12,
            div(textOutput("weighted_avg"), style = "color: blue;")),
     column(12,
-           div(textOutput("letter_grade"), style = "color: blue;")),
-  ))
+           div(textOutput("letter_grade"), style = "color: blue;")),),
+  div(style = "height: 100px;"))
 
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
@@ -130,8 +128,8 @@ server <- function(input, output) {
 
   #### Define Average/Drop Function
   avg_drop_x_lowest <- function(values, drops=0) {
-    if (length(values) - sum(is.na(values)) <= drops) {
-      return(100)
+    if (sum(!is.na(values)) <= drops) {
+      return(NA)
     } else if (drops == 0) {
       return(round(sum(values, na.rm = T) / (sum(!is.na(values))), 2))
     } else {
@@ -152,16 +150,38 @@ server <- function(input, output) {
                         input$lab07, 
                         input$lab08, 
                         input$lab09, 
-                        input$lab10, 
-                        input$lab11)
+                        input$lab10)
+    lab11_input <- input$lab11
     lab_grades <- replace(lab_grades_raw, lab_grades_raw == "Completed", 100)
     lab_grades <- replace(lab_grades, lab_grades == "Not Completed", 0)
     lab_grades <- replace(lab_grades, lab_grades == "Unknown", NA)
-    return(avg_drop_x_lowest(as.numeric(lab_grades), drops=1))
+    lab11 <- ifelse(lab11_input == "Completed", 100,
+                    ifelse(lab11_input == "Not Completed", 0,
+                           NA))
+    lab_grades <- as.numeric(lab_grades)
+    lab11 <- as.numeric(lab11)
+    
+    avg_without_lab11 <- avg_drop_x_lowest(lab_grades, drops = 1)
+    
+    if (!is.na(lab11)) {
+      for_replacement <- sort(lab_grades, na.last = NA)
+      if (length(for_replacement) >= 1 && lab11 > for_replacement[1]) {
+        lab_grades[which.min(lab_grades)] <- lab11
+        avg_with_lab11 <- avg_drop_x_lowest(lab_grades, drops = 1)
+        return(avg_with_lab11)
+      }
+    }
+    
+    return(avg_without_lab11)
   })
 
   output$lab_avg_out <- renderText({
-    paste0("Lab Mean: ", lab_avg(), "%")
+    score <- lab_avg()
+    if (is.na(score)) {
+      return("Lab Mean: Add more estimated scores!")
+    } else {
+      return(paste0("Lab Mean: ", score, "%"))
+    }
   })
 
 
@@ -176,18 +196,22 @@ server <- function(input, output) {
   	                 input$q7, 
   	                 input$q8, 
   	                 input$q9,
-  	                 input$q10,
-  	                 input$q11)
+  	                 input$q10)
   	
   	if (length(quiz_grades[!is.na(quiz_grades)]) == 1) {
   	  return(sum(quiz_grades, na.rm = T))
   	} else {
-  	  return(avg_drop_x_lowest(quiz_grades, drops = 2))
+  	  return(avg_drop_x_lowest(quiz_grades, drops = 1))
   	}
   })
 
   output$quiz_avg_out <- renderText({
-    paste0("Quiz Mean: ", quiz_avg(), "%")
+    score <- quiz_avg()
+    if (is.na(score)) {
+      return("Quiz Mean: Add more estimated scores!")
+    } else {
+      return(paste0("Quiz Mean: ", score, "%"))
+    }
   })
 
   ##### Original Grading Policy Weighted
@@ -210,6 +234,7 @@ server <- function(input, output) {
     if (input$opp_missed > 1) {
       participation_percent <- ((17 - (input$opp_missed - 1)) / 17) * 100
     }
+    final <- ifelse(is.na(input$final), 0, input$final)
     
     weight_avg <- (participation_weight * participation_percent) + 
       (lab_avg() * lab_weight) + 
@@ -225,7 +250,12 @@ server <- function(input, output) {
   #### Grade Estimate
   
     output$weighted_avg <- renderText({
-      paste0("Grade Estimate: ", original(), "%")
+      score <- original()
+      if (is.na(score)) {
+        return("Grade Estimate: Add more estimated scores!")
+      } else {
+        return(paste0("Grade Estimate: ", score, "%"))
+      }
     })
   
   #   output$letter_grade <- renderText({
