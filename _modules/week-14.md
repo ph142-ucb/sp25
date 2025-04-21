@@ -3,7 +3,7 @@ title: Week 14
 days:
   - date: 2025-04-21
     events:
-      "**Lecture 33**{: .label .label-lec} [Goodness of Fit](https://ph142-ucb.github.io/sp25/src/lec/goodnessoffit.pdf) ":
+      "**Lecture 33**{: .label .label-lec} [Goodness of Fit](https://ph142-ucb.github.io/sp25/src/lec/goodnessoffit.pdf) [(recording)](https://bcourses.berkeley.edu/courses/1540322/pages/goodness-of-fit)":
         "Ch. 20"
       "**Participation**{: .label .label-parti} Course Evaluation extra credit opens, on Gradescope ":
   - date: 2025-04-23
