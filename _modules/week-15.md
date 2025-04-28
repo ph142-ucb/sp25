@@ -3,7 +3,7 @@ title: Week 15
 days:
   - date: 2025-04-28
     events:
-      "**Lecture 36**{: .label .label-lec} [Course summary, part I-II](https://ph142-ucb.github.io/sp25/src/lec/wrap-up-p1-2_sp25.pdf) ":
+      "**Lecture 36**{: .label .label-lec} [Course summary, part I-II](https://ph142-ucb.github.io/sp25/src/lec/wrap-up-p1-2_sp25.pdf) [(review session recordings)](https://bcourses.berkeley.edu/courses/1540322/pages/review-sessions)":
 
   - date: 2025-04-30
     events:
