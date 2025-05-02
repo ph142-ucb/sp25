@@ -20,7 +20,9 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Lab </b><br/> Select 'Completed' or 'Not Completed' for each lab or 'Unknown' for future labs. </br> Lab 11 can optionally be completed in replacement of your lowest lab score (for a total of 9 graded lab submissions).<b> <br/> One 'Not Completed' lab will automatically be dropped. </b> </br><br/><br/>")),
+           HTML("<b>For the course's overall grade distribution, please see the syllabus on the course website.<br><br> Lab </b><br/> Select 'Completed' or 'Not Completed' for each lab or 'Unknown' for future labs. </br> 
+                <br>Lab 11 can optionally be completed in replacement of your lowest lab score <i>(for a total of 9 graded lab submissions).</i><br/> 
+                <b>One 'Not Completed' lab will automatically be dropped. </b><br/><br/>")),
     column(2,
            radioButtons("lab01", "Lab 01", choices = c("Completed", "Not Completed", "Unknown"), selected = "Unknown")),
     column(2,
@@ -50,7 +52,10 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Quizzes </b><br/> Enter a percentage grade for each quiz (E.g. Enter 75 if you got 75%). </br><b>The lowest quiz grade will be automatically dropped.</b><br><br>")),
+           HTML("<b>Quizzes </b><br/> 
+                Enter a percentage grade for each quiz <i>(e.g. enter 75 if you got 75%). </i></br/><br/> 
+                Quiz 11 can optionally be completed in replacement of your lowest quiz score <i>(for a total of 9 graded quiz submissions).</i><br/>
+                <b>The lowest quiz grade will be automatically dropped.</b><br/><br/>")),
     column(2,
            numericInput("q1", "Quiz 1", value = NA, min = 0, max = 100, step = 1)),
     column(2,
@@ -73,15 +78,19 @@ ui <- fluidPage(
     column(2,
       numericInput("q10", "Quiz 10", value = NA, min = 0, max = 100, step = 1))),
   fluidRow(
+    column(2,
+           numericInput("q11", "Quiz 11", value = NA, min = 0, max = 100, step = 1))),
+  fluidRow(
     column(4,
            div(textOutput("quiz_avg_out"), style = "color: blue;"))),
 
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Tests </b><br/>(Midterm 1: 15%, Midterm 2: 15%, Final: 20%)
-           <br/>Enter the percentage grade received for each test, including points received as extra credit.
-           </br>Guess grades for tests not yet completed to see how it will affect your overall grade. <br><br>")),
+           HTML("<b>Tests</b>
+           <br/>Enter the percentage grade received for each test. <i>(e.g. __/33 = __%)</i> <br><br>
+           <i>If applicable,</i> add your 3 extra credit points to the appropriate exam.
+           </br><b>Guess grades for tests not yet completed to see how it will affect your overall grade. </b><br><br>")),
     column(2,
            numericInput("m1", "Midterm 1", value = 50, min = 0, max = 100)),
     column(2,
@@ -92,9 +101,10 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Miscellaneous</b><br/> Enter an integer for the participation opportunities missed and a percentage grade (0-100) for the data project.<br/><br>")),
+           HTML("<b>Miscellaneous</b><br/> 
+                Enter an integer for the participation opportunities missed and a percentage grade (0-100) for the data project.<br/><br/>")),
     column(3,
-           numericInput(("opp_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 40)),
+           numericInput(("opp_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 10)),
     column(3,
            numericInput(("group"), "Data Skills Demonstration Project", value = 50, min = 0, max = 100)),
 	),
@@ -141,38 +151,34 @@ server <- function(input, output) {
 
   ##### LAB
   lab_avg <- reactive({
-    lab_grades_raw <- c(input$lab01, 
-                        input$lab02, 
-                        input$lab03, 
-                        input$lab04, 
-                        input$lab05,
-                        input$lab06, 
-                        input$lab07, 
-                        input$lab08, 
-                        input$lab09, 
-                        input$lab10)
-    lab11_input <- input$lab11
-    lab_grades <- replace(lab_grades_raw, lab_grades_raw == "Completed", 100)
-    lab_grades <- replace(lab_grades, lab_grades == "Not Completed", 0)
-    lab_grades <- replace(lab_grades, lab_grades == "Unknown", NA)
-    lab11 <- ifelse(lab11_input == "Completed", 100,
-                    ifelse(lab11_input == "Not Completed", 0,
-                           NA))
-    lab_grades <- as.numeric(lab_grades)
-    lab11 <- as.numeric(lab11)
+    lab_inputs <- c(input$lab01, input$lab02, input$lab03, input$lab04, input$lab05,
+                    input$lab06, input$lab07, input$lab08, input$lab09, input$lab10)
+    lab11 <- input$lab11
     
-    avg_without_lab11 <- avg_drop_x_lowest(lab_grades, drops = 1)
+    # Count only labs that are not "Unknown" for early-exit logic
+    n_non_unknown <- sum(lab_inputs %in% c("Completed", "Not Completed")) + 
+      ifelse(lab11 %in% c("Completed", "Not Completed"), 1, 0)
+    if (n_non_unknown < 2) return(NA)
     
-    if (!is.na(lab11)) {
-      for_replacement <- sort(lab_grades, na.last = NA)
-      if (length(for_replacement) >= 1 && lab11 > for_replacement[1]) {
-        lab_grades[which.min(lab_grades)] <- lab11
-        avg_with_lab11 <- avg_drop_x_lowest(lab_grades, drops = 1)
-        return(avg_with_lab11)
-      }
+    # Assign numeric scores
+    lab_scores <- ifelse(lab_inputs == "Completed", 100,
+                         ifelse(lab_inputs %in% c("Not Completed", "Unknown"), 0, NA))
+    lab_scores <- as.numeric(lab_scores)
+    lab11_score <- ifelse(lab11 == "Completed", 100,
+                          ifelse(lab11 %in% c("Not Completed", "Unknown"), 0, NA))
+    lab11_score <- as.numeric(lab11_score)
+    
+    base_labs <- lab_scores[!is.na(lab_scores)]
+    
+    if (!is.na(lab11_score) && lab11_score > min(base_labs)) {
+      all_labs <- c(base_labs, lab11_score)
+      drops <- 2
+    } else {
+      all_labs <- base_labs
+      drops <- 1
     }
     
-    return(avg_without_lab11)
+    return(avg_drop_x_lowest(all_labs, drops = drops))
   })
 
   output$lab_avg_out <- renderText({
@@ -187,22 +193,29 @@ server <- function(input, output) {
 
   ##### QUIZ
   quiz_avg <- reactive({
-  	quiz_grades <- c(input$q1, 
-  	                 input$q2, 
-  	                 input$q3, 
-  	                 input$q4, 
-  	                 input$q5,
-                     input$q6, 
-  	                 input$q7, 
-  	                 input$q8, 
-  	                 input$q9,
-  	                 input$q10)
-  	
-  	if (length(quiz_grades[!is.na(quiz_grades)]) == 1) {
-  	  return(sum(quiz_grades, na.rm = T))
-  	} else {
-  	  return(avg_drop_x_lowest(quiz_grades, drops = 1))
-  	}
+    quiz_inputs <- c(input$q1, input$q2, input$q3, input$q4, input$q5,
+                     input$q6, input$q7, input$q8, input$q9, input$q10)
+    quiz11 <- input$q11
+    
+    # Count only quizzes that are not NA
+    n_non_na <- sum(!is.na(quiz_inputs)) + ifelse(!is.na(quiz11), 1, 0)
+    if (n_non_na < 2) return(NA)
+    
+    quiz_scores <- as.numeric(replace(quiz_inputs, is.na(quiz_inputs), 0))
+    quiz11_score <- ifelse(is.na(quiz11), NA, as.numeric(quiz11))
+    
+    base_quizzes <- quiz_scores
+    
+    # Use Quiz 11 only if it improves the score
+    if (!is.na(quiz11_score) && quiz11_score > min(base_quizzes)) {
+      all_quizzes <- c(base_quizzes, quiz11_score)
+      drops <- 2
+    } else {
+      all_quizzes <- base_quizzes
+      drops <- 1
+    }
+    
+    return(avg_drop_x_lowest(all_quizzes, drops = drops))
   })
 
   output$quiz_avg_out <- renderText({
