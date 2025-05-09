@@ -45,7 +45,9 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - **Part II is due on April 4th at 10:00 PM PST**
 - **Part III is due on May 12th at 10:00 PM PST**
 
-**Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations. Please note that the teasching team will not respond to data project-related questions on May 12th.**
+**Please note that the teaching team will not respond to data project-related questions on May 12th.**
+
+**Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
 * Late penalty: 50% late penalty if submitted within 24 hours of due date, no marks for assignments submitted thereafter.
 
